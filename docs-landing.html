@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>The Player's Mind — demo apps</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@700;900&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{--navy:#0a1f44;--gold:#d4a437;--gold-soft:#faefd0;--paper:#f7f4ed;--ink:#0a1a2e;--muted:#4c617f;--line:rgba(10,31,68,.12)}
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{font-family:'Inter',system-ui,sans-serif;background:var(--paper);color:var(--ink);min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:880px;width:100%}
+  header{display:flex;align-items:center;gap:16px;margin-bottom:32px}
+  .mark{width:56px;height:56px;border-radius:12px;background:var(--navy);position:relative;display:flex;align-items:center;justify-content:center;color:#fff;font-family:'Archivo',sans-serif;font-weight:900;font-size:18px;letter-spacing:-0.02em}
+  .mark::after{content:"";position:absolute;top:8px;right:10px;width:6px;height:6px;border-radius:50%;background:var(--gold)}
+  .title{font-family:'Archivo',sans-serif;font-weight:900;font-size:28px;color:var(--navy);margin:0;line-height:1}
+  .sub{margin:6px 0 0;font-size:12px;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;font-weight:700}
+  h2{font-family:'Archivo',sans-serif;font-weight:900;font-size:40px;color:var(--navy);margin:0 0 10px;line-height:1.05;letter-spacing:-.02em}
+  .lead{font-size:16px;color:var(--ink);margin:0 0 32px;line-height:1.55;max-width:64ch}
+  .apps{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-bottom:28px}
+  .app{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px 22px;display:block;text-decoration:none;color:var(--ink);transition:transform .1s,border-color .15s}
+  .app:hover{border-color:var(--navy);transform:translateY(-2px)}
+  .app .eye{font-size:11px;color:var(--gold);letter-spacing:.14em;text-transform:uppercase;font-weight:700;margin:0 0 6px;filter:brightness(.65)}
+  .app h3{font-family:'Archivo',sans-serif;font-weight:900;font-size:22px;color:var(--navy);margin:0 0 4px}
+  .app p{font-size:13px;color:var(--muted);margin:0 0 10px;line-height:1.5}
+  .app .arrow{font-size:12px;color:var(--navy);font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+  .demo-box{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin-bottom:20px}
+  .demo-box h4{font-family:'Archivo',sans-serif;font-weight:900;font-size:14px;color:var(--navy);margin:0 0 8px;text-transform:uppercase;letter-spacing:.08em}
+  .demo-box p{margin:0 0 8px;font-size:13px;color:var(--ink);line-height:1.5}
+  code{background:var(--gold-soft);color:var(--navy);padding:2px 8px;border-radius:5px;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:12px}
+  .note{background:var(--navy);color:#fff;border-radius:14px;padding:18px 22px;margin-bottom:20px}
+  .note h4{font-family:'Archivo',sans-serif;font-weight:900;font-size:13px;margin:0 0 6px;letter-spacing:.1em;text-transform:uppercase;color:var(--gold)}
+  .note p{margin:0;font-size:13px;color:#c6d0e4;line-height:1.55}
+  footer{margin-top:24px;font-size:11px;color:var(--muted);text-align:center}
+</style>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <div class="mark">TPM</div>
+      <div>
+        <h1 class="title">The Player&rsquo;s Mind</h1>
+        <p class="sub">Evidence-based mental fitness · ages 7–14 · demo</p>
+      </div>
+    </header>
+    <h2>Demo apps.</h2>
+    <p class="lead">Three installable web apps, all talking to the same Supabase database and enforcing the same row-level safeguarding boundaries. Seed data is already loaded: <b>Unity FC Academy</b> &middot; <b>U10 Reds</b> &middot; Morgan, Aisha and Jude (Jude has an open flag).</p>
+
+    <div class="apps">
+      <a class="app" href="./player/">
+        <p class="eye">Child-facing</p>
+        <h3>Player app</h3>
+        <p>Sign-in, home, session player, post-session check-in, progress.</p>
+        <span class="arrow">Open →</span>
+      </a>
+      <a class="app" href="./coach/">
+        <p class="eye">Adult · squad</p>
+        <h3>Coach app</h3>
+        <p>Squad dashboard, wellbeing signals, invite parents, admin console (if club admin).</p>
+        <span class="arrow">Open →</span>
+      </a>
+      <a class="app" href="./parent/">
+        <p class="eye">Adult · family</p>
+        <h3>Parent app</h3>
+        <p>Weekly digest, child progress, conversation starters, consent settings.</p>
+        <span class="arrow">Open →</span>
+      </a>
+    </div>
+
+    <div class="demo-box">
+      <h4>How to sign in</h4>
+      <p>Each app sign-in uses a magic link. Enter <em>any</em> of these demo emails and the link arrives in the inbox you enter:</p>
+      <p>&bull; Club admin &middot; <code>admin.demo@unityfcacademy.co.uk</code></p>
+      <p>&bull; Coach (U10 Reds) &middot; <code>coach.morris@unityfcacademy.co.uk</code></p>
+      <p>&bull; Parent (of Morgan) &middot; <code>parent.morganjones@example.com</code></p>
+      <p style="margin-top:10px">The email addresses aren&rsquo;t real inboxes yet — in Supabase Studio &rarr; Authentication &rarr; Users you can generate a magic link for any of them and paste it into the browser to sign in.</p>
+    </div>
+
+    <div class="note">
+      <h4>Safeguarding — proven at the DB</h4>
+      <p>Coach sees 14-day wellbeing patterns (Jude&rsquo;s flag appears). Parent sees Morgan&rsquo;s digest and toolkit. Neither sees raw mood check-ins — only Morgan does. That boundary is enforced by RLS policies on Supabase, not app logic; see <code>tpm/supabase/rls_safeguarding_tests.sql</code> in the repo for the nine-test suite.</p>
+    </div>
+
+    <footer>The Player&rsquo;s Mind Ltd · demo build · <a href="https://github.com/segunosu/The-Footballers-Mind" style="color:var(--navy)">github.com/segunosu/The-Footballers-Mind</a></footer>
+  </main>
+</body>
+</html>

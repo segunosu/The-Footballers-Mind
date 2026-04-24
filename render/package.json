@@ -1,0 +1,23 @@
+{
+  "name": "@tpm/render",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Video + voice render pipeline for The Player's Mind — Synthesia/HeyGen + ElevenLabs + Supabase Storage.",
+  "scripts": {
+    "render:plan": "tsx src/render.ts --plan",
+    "render:dry": "tsx src/render.ts --dry",
+    "render:live": "tsx src/render.ts --live",
+    "render:smoke": "tsx src/smoke.ts",
+    "qa:phase1": "tsx src/qa.ts phase1",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

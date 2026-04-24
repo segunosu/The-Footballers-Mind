@@ -1,0 +1,2274 @@
+{
+  "version": 4,
+  "extracted_at": "2026-04-23T00:00:00Z",
+  "source_pdf": "THEAA-content-scripts.pdf",
+  "sessions": [
+    {
+      "session_key": "week-01-age_7_9",
+      "week_number": 1,
+      "age_band": "age_7_9",
+      "title": "What Is Mental Fitness?",
+      "core_skill": "Awareness",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Direct, curious, energetic but not hyper",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "You train your legs.",
+          "You train your arms.",
+          "You train your moves.",
+          "But what about your mind?",
+          "Every athlete has tough moments.",
+          "Feeling scared before a big game.",
+          "Losing trust after a mistake.",
+          "Thinking the pressure is too much.",
+          "That's not bad. That's normal.",
+          "It's just a skill you haven't learned yet.",
+          "Mental fitness is like fitness.",
+          "You can get better at it.",
+          "And when you start young, you get really good.",
+          "Welcome to The Player's Mind.",
+          "Your training starts now."
+        ],
+        "estimated_duration_sec": 89
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before your game, let's get your mind ready just like your body. Breathe in slow... two, three, four. Hold it... two, three. Breathe out slow... two, three, four. One more time. Good. Your body is ready. Your mind is ready. Now go play."
+      },
+      "card": {
+        "title": "What Is Mental Fitness?",
+        "key_message": "Mental fitness is a skill — not a personality trait. Just like physical fitness, you build it through consistent, structured practice.",
+        "fill_in_prompts": [
+          "Notice one moment when your mind helped or hindered your performance",
+          "Start a feelings journal: after each session, write 2–3 words about how you felt"
+        ],
+        "remember_line": "My mind is a skill I can train."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-01-age_10_12",
+      "week_number": 1,
+      "age_band": "age_10_12",
+      "title": "What Is Mental Fitness?",
+      "core_skill": "Awareness",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Direct, curious, energetic but not hyper",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "You train your legs.",
+          "You train your arms.",
+          "You train your technique.",
+          "But what about what happens up here?",
+          "Every athlete — from grassroots to professional — has moments where their mind gets in the way.",
+          "Nerves before a big game.",
+          "Losing confidence after a mistake.",
+          "Feeling like the pressure is too much.",
+          "That's not weakness.",
+          "That's just a skill you haven't been trained in. Yet.",
+          "Mental fitness is exactly like physical fitness.",
+          "You can build it. You can improve it.",
+          "And the earlier you start, the better.",
+          "Welcome to The Player's Mind.",
+          "This is where that training begins."
+        ],
+        "estimated_duration_sec": 97
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before your game, let's get your mind as ready as your body. Take a slow breath in... two, three, four. Hold... two, three. Out slowly... two, three, four, five. One more time. Good. Your body is ready. Your mind is ready. This is your moment. Play your game."
+      },
+      "card": {
+        "title": "What Is Mental Fitness?",
+        "key_message": "Mental fitness is a skill — not a personality trait. Just like physical fitness, you build it through consistent, structured practice.",
+        "fill_in_prompts": [
+          "Notice one moment when your mind helped or hindered your performance",
+          "Start a feelings journal: after each session, write 2–3 words about how you felt"
+        ],
+        "remember_line": "My mind is a skill I can train."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-01-age_13_14",
+      "week_number": 1,
+      "age_band": "age_13_14",
+      "title": "What Is Mental Fitness?",
+      "core_skill": "Awareness",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Direct, curious, energetic but not hyper",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "You train your legs.",
+          "You train your arms.",
+          "You train your technique.",
+          "But what about what happens up here?",
+          "Every elite athlete — from academy to professional — has moments where mind gets in the way.",
+          "Pre-match nerves.",
+          "Loss of confidence after a mistake.",
+          "Feeling overwhelmed by pressure.",
+          "That's not weakness. That's the gap between your current skill and elite-level performance.",
+          "It's a trainable gap.",
+          "Mental fitness works exactly like physical fitness: progressive overload, repetition, measurable improvement.",
+          "Research shows that athletes who train mental skills early gain a measurable edge.",
+          "You can build it. You can improve it.",
+          "Welcome to The Player's Mind.",
+          "This is where elite-level training begins."
+        ],
+        "estimated_duration_sec": 112
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before your game, let's get your mind as competition-ready as your body. Take a slow breath in... two, three, four. Hold... two, three. Out slowly... two, three, four, five. Again. Your body is ready. Your mind is ready. This is your moment. Go perform."
+      },
+      "card": {
+        "title": "What Is Mental Fitness?",
+        "key_message": "Mental fitness is a skill — not a personality trait. Just like physical fitness, you build it through consistent, structured practice.",
+        "fill_in_prompts": [
+          "Notice one moment when your mind helped or hindered your performance",
+          "Start a feelings journal: after each session, write 2–3 words about how you felt"
+        ],
+        "remember_line": "My mind is a skill I can train."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-02-age_7_9",
+      "week_number": 2,
+      "age_band": "age_7_9",
+      "title": "Emotions in Sport",
+      "core_skill": "Naming Emotions",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Curious, normalising, warm — not clinical",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "What did you feel in your last game?",
+          "Happy? Scared? Angry?",
+          "Those feelings are not problems.",
+          "They're messages from your body.",
+          "When you're scared, your body is trying to help.",
+          "When you're angry, there's energy there.",
+          "When you're happy, you've found something you love.",
+          "The trick isn't to stop feeling things.",
+          "It's to understand what your feelings are telling you.",
+          "That's a superpower.",
+          "Athletes who know what they're feeling can choose what to do next.",
+          "You start learning that today.",
+          "Notice your feelings like a detective.",
+          "Not as a problem. As a clue.",
+          "That's the whole skill."
+        ],
+        "estimated_duration_sec": 92
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Close your eyes for a moment. In your last game, what did you feel? Name it. Excited. Sad. Cross. Proud. Whatever it was, it was real. This week, be a feeling detective. When you feel something strong, stop and ask: what am I feeling? What is it telling me? The more you notice, the better you understand you. And when you understand you, you're in control. Open your eyes. You've started."
+      },
+      "card": {
+        "title": "Emotions in Sport",
+        "key_message": "Your emotions are information, not problems. The athlete who understands their feelings can decide what to do with them.",
+        "fill_in_prompts": [
+          "After training or a match, name 3 emotions you felt. Write them down.",
+          "Ask yourself: What was that feeling telling me?"
+        ],
+        "remember_line": "I notice what I feel — and I decide what I do with it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-02-age_10_12",
+      "week_number": 2,
+      "age_band": "age_10_12",
+      "title": "Emotions in Sport",
+      "core_skill": "Naming Emotions",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Curious, normalising, warm — not clinical",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Think about the last time you played sport and felt something really strongly.",
+          "Maybe it was excitement before kick-off.",
+          "Maybe it was frustration after a mistake.",
+          "Maybe it was nerves when everyone was watching.",
+          "Those feelings? They're not problems to fix.",
+          "They're information.",
+          "Every emotion your body sends you during sport is a signal.",
+          "Frustration means you care.",
+          "Nerves mean it matters to you.",
+          "Even anger can be energy — if you know how to use it.",
+          "The problem isn't having emotions.",
+          "The problem is not knowing what to do with them.",
+          "Today, we start learning the language of emotions in sport.",
+          "Because the athletes who understand what they're feeling — can control what they DO with it.",
+          "Your emotions aren't in charge. You are.",
+          "That's a skill. And it starts now."
+        ],
+        "estimated_duration_sec": 108
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Close your eyes for a moment. After a tough game — or a really good one — what did you feel? Name it. Frustrated. Excited. Disappointed. Proud. Whatever it was, it was real. And it was telling you something. This week, notice your emotions in sport like a scientist. Not judging them. Just observing. Ask yourself: what am I feeling right now? And what is that feeling trying to tell me? The more you practise this, the better you understand yourself. And understanding yourself is the first step to controlling yourself. Take a breath. Open your eyes. You're already learning."
+      },
+      "card": {
+        "title": "Emotions in Sport",
+        "key_message": "Your emotions are information, not problems. The athlete who understands their feelings can decide what to do with them.",
+        "fill_in_prompts": [
+          "After training or a match, name 3 emotions you felt. Write them down.",
+          "Ask yourself: What was that feeling telling me?"
+        ],
+        "remember_line": "I notice what I feel — and I decide what I do with it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-02-age_13_14",
+      "week_number": 2,
+      "age_band": "age_13_14",
+      "title": "Emotions in Sport",
+      "core_skill": "Naming Emotions",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Curious, normalising, warm — not clinical",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Consider your last competitive match.",
+          "What emotions did you experience?",
+          "Pre-match activation?",
+          "Frustration following errors?",
+          "Pressure during critical moments?",
+          "These aren't obstacles. They're neurobiological feedback.",
+          "Your nervous system is communicating.",
+          "Frustration signals commitment. Nerves signal importance. Even anger can fuel performance — if you understand how to channel it.",
+          "The issue isn't emotional response itself.",
+          "The issue is metacognitive blindness — not knowing what you're feeling or why.",
+          "Elite athletes don't eliminate emotions. They develop emotional granularity.",
+          "You learn to distinguish types of nerves. Types of focus. Types of drive.",
+          "Starting now, you're building that literacy.",
+          "This is neuroscience applied to performance.",
+          "Your feelings are data. Use them."
+        ],
+        "estimated_duration_sec": 115
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Close your eyes. After a recent competitive moment — challenging or successful — what did you feel? Name it precisely. Not just 'nervous' but what type: anticipatory? Performance-based? Name it: frustrated, energised, uncertain. This week, observe your emotional states like a scientist measuring data. Ask yourself: what am I feeling right now? What is that signalling about my readiness? What can I do with it? Understanding your emotional baseline is the foundation of regulation. Open your eyes. You're building elite-level self-awareness."
+      },
+      "card": {
+        "title": "Emotions in Sport",
+        "key_message": "Your emotions are information, not problems. The athlete who understands their feelings can decide what to do with them.",
+        "fill_in_prompts": [
+          "After training or a match, name 3 emotions you felt. Write them down.",
+          "Ask yourself: What was that feeling telling me?"
+        ],
+        "remember_line": "I notice what I feel — and I decide what I do with it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-03-age_7_9",
+      "week_number": 3,
+      "age_band": "age_7_9",
+      "title": "The Confidence Triangle",
+      "core_skill": "Self-Belief",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Motivating, grounded, direct — no empty hype",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Can you build confidence like you build strength?",
+          "Yes.",
+          "Confidence comes from three things.",
+          "First: stuff you've already done well.",
+          "Times you worked hard. Times you played well.",
+          "Your brain remembers all of it.",
+          "Second: actual skills you have.",
+          "You're good at something. You know it.",
+          "Third: what you tell yourself.",
+          "If you keep saying you can't, you won't.",
+          "If you say you can, you start to believe it.",
+          "Here's the amazing bit.",
+          "When one of these is low, you still have the other two.",
+          "Even on a bad day, you can rebuild.",
+          "That's real confidence.",
+          "It's based on truth. Not wishes."
+        ],
+        "estimated_duration_sec": 91
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before your next game... Think about three things. One thing you've done really well this season. One skill you actually have. And one thing you tell yourself that makes you feel strong. Hold those three. That's your confidence. It's real. It's always there. Breathe. Tell yourself: I've done good things. I have real skills. I believe in myself. Now go show them."
+      },
+      "card": {
+        "title": "The Confidence Triangle",
+        "key_message": "Confidence is built from three things: what you've done, what you can do, and what you say to yourself.",
+        "fill_in_prompts": [
+          "Something I've done well: __________",
+          "A skill I actually have: __________",
+          "What I say to myself: __________"
+        ],
+        "remember_line": "My confidence is built on evidence. I can always rebuild it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-03-age_10_12",
+      "week_number": 3,
+      "age_band": "age_10_12",
+      "title": "The Confidence Triangle",
+      "core_skill": "Self-Belief",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Motivating, grounded, direct — no empty hype",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "What if confidence wasn't something you had — or didn't have?",
+          "What if it was something you could actually build?",
+          "Think about how you build fitness.",
+          "You train. You repeat. You improve.",
+          "Confidence works exactly the same way.",
+          "It comes from three places.",
+          "First: what you've already done.",
+          "Every time you've trained hard, played well, solved a problem on the pitch — that's evidence.",
+          "Your brain stores it.",
+          "Second: what you can actually do. Your real skills.",
+          "Third: what you say to yourself. Self-talk.",
+          "This one matters more than most people think.",
+          "Here's the thing.",
+          "Even when one side of the triangle is low — after a bad game, a tough week —",
+          "— you still have the other two.",
+          "Confidence doesn't disappear. It just needs rebuilding.",
+          "Today, you're going to start filling your confidence bank.",
+          "Not with empty words. With actual evidence.",
+          "That's how elite athletes do it.",
+          "And it's how you do it too."
+        ],
+        "estimated_duration_sec": 117
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before you get ready for your game today... Think about three things. One thing you've done well this season. One skill you know you have. And one phrase that makes you feel like yourself. Hold those three things in your mind. This is your confidence triangle. It's always there — even when you don't feel it. Take a slow breath in. And remind yourself: I have done good things. I have real skills. And I back myself. Now go show them what you've got."
+      },
+      "card": {
+        "title": "The Confidence Triangle",
+        "key_message": "Confidence is built from three things: what you've done, what you can do, and what you say to yourself.",
+        "fill_in_prompts": [
+          "Something I've done well: __________",
+          "A skill I actually have: __________",
+          "What I say to myself: __________"
+        ],
+        "remember_line": "My confidence is built on evidence. I can always rebuild it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-03-age_13_14",
+      "week_number": 3,
+      "age_band": "age_13_14",
+      "title": "The Confidence Triangle",
+      "core_skill": "Self-Belief",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Motivating, grounded, direct — no empty hype",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "What if confidence isn't a fixed trait, but a trainable construct?",
+          "Bandura's research on self-efficacy shows it's built from four sources:",
+          "First: mastery experiences. What you've already accomplished.",
+          "Every time you've trained hard, performed well, solved a technical problem on pitch — that's evidence your brain stores.",
+          "Second: your actual technical and tactical skills.",
+          "Third: self-talk and cognitive framing. This one matters more than most elite athletes realise.",
+          "Fourth: observational learning — watching peers succeed.",
+          "Here's the critical insight: even when one source is depleted — after a poor game, a tough week —",
+          "you still have access to the other three.",
+          "Confidence doesn't evaporate. It requires deliberate reconstruction.",
+          "Today you start your Confidence Bank: evidence-based, not wishful.",
+          "This is how elite athletes sustain performance across a season.",
+          "And it starts now."
+        ],
+        "estimated_duration_sec": 119
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before you compete... Recall three specific things. One measurable success from this season — timing, context, outcome. One technical skill you know you've developed. One performance cue that anchors you when pressure rises. Hold these three. This is your evidence-based confidence. It's grounded in data, not hope. Breathe. Activate: I have delivered before. I have demonstrable skill. I can regulate under pressure. Now execute your game."
+      },
+      "card": {
+        "title": "The Confidence Triangle",
+        "key_message": "Confidence is built from three things: what you've done, what you can do, and what you say to yourself.",
+        "fill_in_prompts": [
+          "Something I've done well: __________",
+          "A skill I actually have: __________",
+          "What I say to myself: __________"
+        ],
+        "remember_line": "My confidence is built on evidence. I can always rebuild it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-04-age_7_9",
+      "week_number": 4,
+      "age_band": "age_7_9",
+      "title": "Mistakes Are Data",
+      "core_skill": "Growth Mindset",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Warm, encouraging, simple — no complexity",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "You make a mistake.",
+          "What do you do?",
+          "Do you feel sad?",
+          "Do you feel angry?",
+          "Do you keep thinking about it?",
+          "Most kids do.",
+          "But guess what?",
+          "Your mistake is telling you something.",
+          "It's like a message from your body.",
+          "Your foot was in the wrong spot.",
+          "You passed too soft.",
+          "You weren't ready for that move.",
+          "That's not bad. That's useful.",
+          "Now you know what to work on.",
+          "The best players in the world make mistakes all the time.",
+          "They just learn from them fast.",
+          "Notice what went wrong.",
+          "Learn what to do better.",
+          "Take a breath.",
+          "Do it again.",
+          "That's how you get stronger."
+        ],
+        "estimated_duration_sec": 92
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "You made a mistake. That's okay. Every good player makes mistakes. Now — what can you learn from it? Maybe your feet were in the wrong place. Maybe you weren't watching the ball. That's your clue. That's what to work on next. Don't sit with it. Notice it. Fix it. Move on. Your coach notices when you learn from mistakes. Your teammates notice. Most importantly, you'll notice your game getting better. So next time you mess up, you're not upset — you're just learning."
+      },
+      "card": {
+        "title": "Mistakes Are Data",
+        "key_message": "Mistakes tell you what to work on next. They're not bad — they're helpful.",
+        "fill_in_prompts": [
+          "The 4-Step Reset:",
+          "1. Notice — what did I do?",
+          "2. Learn — what do I need to work on?",
+          "3. Breathe — let it go",
+          "4. Move on — next play"
+        ],
+        "remember_line": "My mistake is just telling me what to practice."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-04-age_10_12",
+      "week_number": 4,
+      "age_band": "age_10_12",
+      "title": "Mistakes Are Data",
+      "core_skill": "Growth Mindset",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Matter-of-fact, empowering — no fluff",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "What do you do the second after you make a mistake?",
+          "Do you freeze?",
+          "Do you get angry at yourself?",
+          "Do you replay it in your head for the rest of the game?",
+          "Most athletes do.",
+          "And it costs them.",
+          "Because while you're beating yourself up over the last mistake —",
+          "— the game has moved on.",
+          "And you're not in it anymore.",
+          "Here's a different way to think about it.",
+          "Mistakes are not failures. Mistakes are data.",
+          "Every mistake tells you something — what to adjust, what to practise, where to focus.",
+          "The best athletes in the world make more mistakes than average athletes.",
+          "Because they take more risks.",
+          "And they process those mistakes faster.",
+          "Notice. Learn. Reset. Move on.",
+          "That's the process.",
+          "And you can train it.",
+          "Today, you're going to start treating every mistake in training not as a problem —",
+          "— but as information.",
+          "Because that's exactly what it is."
+        ],
+        "estimated_duration_sec": 115
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Think about a recent mistake you made in sport. Not to dwell on it. Just to look at it clearly. What happened? What can you learn from it? Maybe your positioning was off. Maybe you rushed. That's the information. Now — let it go. You've extracted what you need. The rest is just noise. Take a breath. Remind yourself: mistakes make me better. Every athlete who has ever been great made more mistakes than you have. And they kept going. So will you."
+      },
+      "card": {
+        "title": "Mistakes Are Data",
+        "key_message": "Mistakes aren't failures — they're information. The faster you process them, the faster you improve.",
+        "fill_in_prompts": [
+          "The 4-Step Reset:",
+          "1. Notice — what happened?",
+          "2. Learn — what does it tell me?",
+          "3. Reset — breathe and refocus",
+          "4. Move on — back in the game"
+        ],
+        "remember_line": "I notice, learn, reset, and move on. Every time."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-04-age_13_14",
+      "week_number": 4,
+      "age_band": "age_13_14",
+      "title": "Mistakes Are Data",
+      "core_skill": "Growth Mindset",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Matter-of-fact, analytical, performance-focused",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "The moment after a mistake is critical.",
+          "Most athletes spiral: self-criticism, loss of focus, momentum collapse.",
+          "Elite athletes do something different.",
+          "They treat mistakes as performance data.",
+          "Research on error processing in sport shows: the faster you extract the learning, the faster you reset.",
+          "Here's the cognitive sequence:",
+          "Notice the error. What went wrong? Positioning? Timing? Decision?",
+          "Name the variable. This isn't vague self-blame; it's specific, observable, correctable.",
+          "Extract the learning. Your nervous system processes this as information, not threat.",
+          "Release and redirect. You've got the data. The next play exists in front of you.",
+          "The best players in your league make more mistakes than their peers.",
+          "Not fewer.",
+          "More.",
+          "Why? They take calculated risks. They play at the edge of their technical range.",
+          "And they process errors in real time rather than dwelling.",
+          "Your competitive edge isn't made by playing it safe.",
+          "It's built on your ability to make mistakes, learn from them, and keep playing.",
+          "Master this cycle and you've got a trainable system for continuous improvement."
+        ],
+        "estimated_duration_sec": 118
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "When you make a mistake in competition, the cognitive window is narrow. You've got seconds to process what happened, extract the learning, and move forward. Rumination is expensive — it costs you focus on the next play. Elite athletes practise error recognition like they practise technical skill. Notice the error. Name the variable. Learn the lesson. Reset. This is deliberate mental training. The cycle becomes automatic through repetition. Your mistake protocol is as trainable as your first touch. Use errors as data points for edge-sharpening, not as evidence against your capability. Then execute the next play."
+      },
+      "card": {
+        "title": "Mistakes Are Data",
+        "key_message": "Error processing is a trainable skill. Faster learning = faster reset = competitive edge.",
+        "fill_in_prompts": [
+          "The Error-Processing Cycle:",
+          "1. Notice — what was the error?",
+          "2. Name — which variable (positioning, timing, decision)?",
+          "3. Learn — what's the correction?",
+          "4. Reset — refocus on the next play",
+          "Practise this under pressure in training."
+        ],
+        "remember_line": "My mistakes are data. My response is what separates elite from average."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-05-age_7_9",
+      "week_number": 5,
+      "age_band": "age_7_9",
+      "title": "Focus Fundamentals",
+      "core_skill": "Attention Control",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Calm, encouraging, concrete — simple words",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "You know that feeling when a game feels easy?",
+          "You're not thinking about stuff.",
+          "You're just playing.",
+          "That's focus.",
+          "Focus is like a light.",
+          "You point it where you want to look.",
+          "Some times you shine it on one thing. The ball. Your mum cheering.",
+          "Other times you see everything. The whole field. Everyone running.",
+          "Your brain gets lots of noise all the time.",
+          "Your coach. The crowd. What you had for lunch.",
+          "Good players know how to turn off the noise.",
+          "Not by wishing it away.",
+          "But by pointing their focus where it matters.",
+          "Your focus is like a muscle.",
+          "The more you practise pointing it, the faster it goes where you want.",
+          "And if it drifts? That's normal.",
+          "Everyone's focus drifts.",
+          "The trick is getting it back fast.",
+          "Today you're going to start training your focus.",
+          "Just like you train your feet."
+        ],
+        "estimated_duration_sec": 93
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "When you're playing and everything feels easy, that's focus. Your brain isn't wandering. You're locked in. That feeling — you can learn to get it back whenever you want. It's not magic. It's a skill. Your coach might shout. The crowd might be loud. But you can point your focus to one thing. The ball. The next pass. What you need to do right now. When your mind wanders, just notice it. Say a word, like your name, or Ball. Then lock back in. That's it. You're training your focus every time you do that."
+      },
+      "card": {
+        "title": "Focus Fundamentals",
+        "key_message": "Focus is a skill. You train it by pointing your attention where you want it and bringing it back when it drifts.",
+        "fill_in_prompts": [
+          "My focus word today: __________",
+          "When my mind drifts, I say my focus word and lock back in.",
+          "Two types of focus:",
+          "Tight — just the ball",
+          "Wide — the whole game"
+        ],
+        "remember_line": "I can always bring my focus back. I'm getting better at it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-05-age_10_12",
+      "week_number": 5,
+      "age_band": "age_10_12",
+      "title": "Focus Fundamentals",
+      "core_skill": "Attention Control",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Precise, calm, analytical",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "You've probably had a game where everything just clicked.",
+          "You weren't thinking about the crowd.",
+          "You weren't worrying about what happened last week.",
+          "You were just... in it.",
+          "That's called focus. And it doesn't happen by accident.",
+          "Focus is a skill.",
+          "And like every other skill, it has to be trained.",
+          "Here's the problem: your brain is designed to get distracted.",
+          "It's constantly scanning for threats, for distractions, for anything that might be relevant.",
+          "In sport, that's mostly noise.",
+          "Your coach shouting. The score. The crowd. Your own thoughts.",
+          "Elite athletes don't have fewer distractions.",
+          "They've trained their attention to come back faster when it drifts.",
+          "There are two types of focus in sport.",
+          "Narrow — locked in on one thing, like the ball.",
+          "And broad — taking in the whole picture. Your team, the space, what's about to happen.",
+          "Great players switch between both automatically.",
+          "Today, we're going to start training your attention.",
+          "Not to stop it drifting — it will drift.",
+          "But to bring it back faster, every time."
+        ],
+        "estimated_duration_sec": 118
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Think about a moment when you were completely locked in during a game. No distractions. Just pure focus. That's a trainable state. Your brain drifts naturally — that's not a weakness, that's neurology. But the gap between drift and return is where the work happens. Elite athletes aren't born with fewer distractions. They've trained faster recovery. Watch the ball. Feel the field. Notice when your mind shifts to the crowd or your last mistake. Anchor back to your job. Ball, space, teammates. That cycle — focus, drift, recover, focus — is trainable. The faster your recovery loop, the more consistent your performance."
+      },
+      "card": {
+        "title": "Focus Fundamentals",
+        "key_message": "Focus is a skill. You don't stop distractions — you train your attention to return faster.",
+        "fill_in_prompts": [
+          "My focus anchor today: __________",
+          "When I notice I've drifted: Breathe → Name my anchor → Re-engage",
+          "Two types of focus:",
+          "Narrow — one thing (the ball, the next move)",
+          "Broad — the whole picture (space, teammates, patterns)"
+        ],
+        "remember_line": "I don't have to be perfect. I just have to keep coming back."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-05-age_13_14",
+      "week_number": 5,
+      "age_band": "age_13_14",
+      "title": "Focus Fundamentals",
+      "core_skill": "Attention Control",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Direct, analytical, neuroscience-informed",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Elite focus isn't about sustained attention.",
+          "Your brain can't maintain narrow focus for 90 minutes.",
+          "That's not a limitation; that's neurology.",
+          "What separates elite players is their attentional flexibility.",
+          "The ability to switch between narrow focus and broad awareness. And to recover focus when it drifts.",
+          "Neuroscience calls this attentional disengagement and re-engagement.",
+          "Your prefrontal cortex manages this, but only with deliberate practice.",
+          "Here's the pattern elite athletes operate on:",
+          "Narrow — locked on one stimulus. Ball trajectory. Next pass read. Body position.",
+          "Broad — pattern recognition. Space awareness. Opponent shape. Tactical shift.",
+          "Drift — your attention shifts to noise. The crowd, an intrusive thought, frustration.",
+          "Return — you notice the drift and snap back to your primary task within milliseconds.",
+          "That return speed is trainable.",
+          "Research on expert athletes shows the narrowest drift-to-return cycles correlate directly with performance consistency.",
+          "You can't eliminate drift.",
+          "But you can train the recovery.",
+          "Make that cycle automatic and you've built a resilient attention system."
+        ],
+        "estimated_duration_sec": 119
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Your attention system operates on a cycle, not a fixed beam. Narrow focus on the immediate task. Broad awareness of patterns and space. Drift when your brain catches something irrelevant. Recovery when you notice and re-anchor. Elite athletes compress this cycle. They return to task focus in microseconds, not seconds. This is trainable through deliberate repetition. In training, work your recovery explicitly. Notice when your focus has shifted. Name the distraction. Return to primary task. Make that loop tight. When you're in match conditions under pressure, that trained cycle becomes automatic. Your competitive consistency is built on attentional fitness, not distraction prevention."
+      },
+      "card": {
+        "title": "Focus Fundamentals",
+        "key_message": "Attentional flexibility and fast recovery are elite traits. Train the drift-return cycle and you own the moment.",
+        "fill_in_prompts": [
+          "The Attentional Cycle:",
+          "Narrow — task focus",
+          "Broad — pattern awareness",
+          "Drift — notice the shift",
+          "Return — re-anchor fast",
+          "Practice compressed drift-return cycles under pressure."
+        ],
+        "remember_line": "My focus isn't fixed. It's flexible. And my recovery speed is my competitive edge."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-06-age_7_9",
+      "week_number": 6,
+      "age_band": "age_7_9",
+      "title": "Breathing and Body",
+      "core_skill": "Physiological Control",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Calm, supportive, very concrete",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Before a big game, what happens to your body?",
+          "Your heart goes fast.",
+          "Your hands might shake.",
+          "You might feel tight in your chest.",
+          "That's nerves. And everyone gets them.",
+          "But here's the thing.",
+          "Your body and your brain are connected.",
+          "When your body is calm, your brain thinks you're ready.",
+          "And the fastest way to calm your body?",
+          "Your breath.",
+          "You can't tell your heart to slow down.",
+          "You can tell your breathing to slow down.",
+          "And when you do, your heart listens.",
+          "Box breathing is a trick that special soldiers and doctors use.",
+          "It's simple.",
+          "Breathe in slow for four counts.",
+          "Hold for four.",
+          "Breathe out slow for four.",
+          "Hold for four.",
+          "That's it.",
+          "Do this before you play and you feel different."
+        ],
+        "estimated_duration_sec": 94
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before your game, try this. Breathe in slow... two, three, four. Hold... two, three. Breathe out slow... two, three, four. Hold... two, three. You feel different now. Calmer. Your body can feel the difference. When you're nervous before you play, this is what you do. Slow breath in, hold, slow breath out, hold. Four counts, four counts, four counts. One more time and you're ready to play. Your breath is the fastest way to tell your body you're okay. It always works."
+      },
+      "card": {
+        "title": "Breathing and Body",
+        "key_message": "Your breath controls your body. Slow breathing makes you feel calm and ready.",
+        "fill_in_prompts": [
+          "Slow Breathing:",
+          "IN: 4 counts",
+          "HOLD: 3 counts",
+          "OUT: 4 counts",
+          "HOLD: 3 counts",
+          "Do this before games or when you feel nervous."
+        ],
+        "remember_line": "My breath is my calm button. I can use it whenever I need to."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-06-age_10_12",
+      "week_number": 6,
+      "age_band": "age_10_12",
+      "title": "Breathing and Body",
+      "core_skill": "Physiological Control",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Calm, authoritative, practical",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Your body and your mind are connected.",
+          "When you're stressed before a game —",
+          "— heart racing, shoulders tight, breathing fast —",
+          "— your brain reads that as danger.",
+          "And when your brain thinks you're in danger, it does everything it can to protect you.",
+          "That usually means: play safe. Don't take risks. Avoid mistakes.",
+          "That's the opposite of how you want to perform.",
+          "Here's the thing.",
+          "You can't always control your thoughts.",
+          "But you can almost always control your breathing.",
+          "And controlled breathing sends a direct signal to your brain:",
+          "We're safe. We're ready. We're in control.",
+          "Box breathing is used by elite athletes, surgeons, and special forces.",
+          "It takes under two minutes.",
+          "In for four. Hold for four. Out for four. Hold for four.",
+          "That's it.",
+          "Do it once before a drill.",
+          "Do it after a stressful moment on the pitch.",
+          "Do it in the changing room when the nerves kick in.",
+          "Your breath is the fastest, most reliable reset you have.",
+          "It's always available. And it always works."
+        ],
+        "estimated_duration_sec": 117
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Let's reset before your game. Follow my lead. Breathe in slowly... two, three, four. Hold... two, three, four. Out slowly... two, three, four, five. Hold... two, three. One more time. In... two, three, four. Hold... two, three, four. Out... two, three, four, five. Good. Your body is calm. Your mind is clear. You're in control. Now go play your game."
+      },
+      "card": {
+        "title": "Breathing and Body",
+        "key_message": "Control your breath and you control your state. Box breathing is your fastest, most reliable reset.",
+        "fill_in_prompts": [
+          "Box Breathing:",
+          "IN: 4 counts",
+          "HOLD: 4 counts",
+          "OUT: 4 counts",
+          "HOLD: 4 counts",
+          "Use before games, after mistakes, when nerves hit."
+        ],
+        "remember_line": "My breath is always available. It always works."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-06-age_13_14",
+      "week_number": 6,
+      "age_band": "age_13_14",
+      "title": "Breathing and Body",
+      "core_skill": "Physiological Control",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Analytical, direct, evidence-anchored",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Your nervous system operates on an axis: sympathetic and parasympathetic.",
+          "Sympathetic activation is fight-or-flight. Heart rate up. Breathing fast. Muscles primed.",
+          "That's useful for intensity.",
+          "But too much sympathetic dominance triggers risk aversion and conservatism.",
+          "You play safe. You hesitate.",
+          "You need parasympathetic tone to regulate that.",
+          "And the fastest way to activate parasympathetic recovery is controlled breathing.",
+          "The vagus nerve — the longest cranial nerve — runs from your brain to your gut.",
+          "It's bidirectional. Your breathing patterns signal back to your brain.",
+          "Slow, paced breathing tells your nervous system: threat has passed. We're safe.",
+          "Your body relaxes. Your decision-making centre engages.",
+          "Box breathing exploits this mechanism.",
+          "Four counts in, four counts hold, four counts out, four counts hold.",
+          "Used by special forces and elite athletes because it's neurologically efficient.",
+          "One 60-second cycle shifts your nervous system state measurably.",
+          "Before competition, before stressful moments, after errors: box breathing is your physiological toolkit.",
+          "Master this and you own your pre-performance activation state."
+        ],
+        "estimated_duration_sec": 118
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Your nervous system has a gas pedal and a brake. Sympathetic activation gets you sharp and reactive. But without parasympathetic regulation, that sharpness becomes rigidity and risk aversion. Your breath is the control mechanism. Slow, paced breathing activates the vagal brake. Your brain interprets the signal as safety and stability. One box-breathing cycle — in for four, hold for four, out for four, hold for four — measurably shifts your state. Sixty seconds before you compete, after an error, when pressure rises: you've got a direct physiological tool. Use it intentionally and your nervous system becomes trainable. Your activation state becomes deliberate, not reactive."
+      },
+      "card": {
+        "title": "Breathing and Body",
+        "key_message": "Master nervous system regulation through parasympathetic activation. Controlled breathing is your physiological performance toolkit.",
+        "fill_in_prompts": [
+          "Box Breathing Protocol:",
+          "IN: 4 counts (nasal, slow)",
+          "HOLD: 4 counts (maintain focus)",
+          "OUT: 4 counts (nasal or pursed lip)",
+          "HOLD: 4 counts (parasympathetic engagement)",
+          "1–2 cycles before competition or after stressors."
+        ],
+        "remember_line": "My nervous system is trainable. My breath is my regulation tool."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-07-age_7_9",
+      "week_number": 7,
+      "age_band": "age_7_9",
+      "title": "Your Mental Warm-Up",
+      "core_skill": "Pre-Performance Routine",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Structured, encouraging — building ownership",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "You warm up your legs. Your arms. Your skills.",
+          "But do you warm up your mind?",
+          "The best athletes do.",
+          "They run through a quick routine before every game.",
+          "Breathe. Say your cue word. Picture yourself. Set your goal.",
+          "It takes three minutes. Maybe five.",
+          "And it helps your body and brain get ready together.",
+          "Here's what your routine looks like.",
+          "First: three slow breaths. In... and out. In... and out.",
+          "Second: one word that fires you up. Your word.",
+          "Third: close your eyes. See yourself playing well.",
+          "Fourth: what do you want to bring today? One thing.",
+          "That's it. That's your warm-up.",
+          "When you do it the same way every time, your body learns.",
+          "Your brain learns. And game time feels familiar.",
+          "Safe. Ready.",
+          "Now you're going to build yours.",
+          "Keep it short. Keep it the same. Use it before every game."
+        ],
+        "estimated_duration_sec": 88
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Let's warm up your mind. Breathe in... two, three, four. Out... two, three, four. Again. Good. Now say your word. The word that switches you on. Picture yourself. You're moving well. You're making good choices. You're playing your best game. Now set your one thing. What do you want to bring today? Hold it. That's your warm-up. Your mind and body are ready. Go play."
+      },
+      "card": {
+        "title": "My Mental Warm-Up",
+        "key_message": "A routine you do the same way every time becomes your power-up.",
+        "fill_in_prompts": [
+          "My Warm-Up Routine:",
+          "1. Breathe — __ breaths",
+          "2. My power word — __________",
+          "3. I see myself — __________",
+          "4. Today I bring — __________"
+        ],
+        "remember_line": "Same routine, same game. Ready, set, go."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-07-age_10_12",
+      "week_number": 7,
+      "age_band": "age_10_12",
+      "title": "Your Mental Warm-Up",
+      "core_skill": "Pre-Performance Routine",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Structured, encouraging — building ownership",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "You warm up your body before every game. Right?",
+          "Stretching. Passing drills. Getting your muscles ready.",
+          "So why don't most athletes warm up their mind?",
+          "The athletes who perform most consistently — week in, week out —",
+          "— have one thing in common.",
+          "A pre-performance routine.",
+          "Not superstitions. Not rituals for luck.",
+          "A deliberate sequence of mental actions that gets your head in the right place.",
+          "It might take two minutes. It might take five.",
+          "It sets your focus. It manages your energy. It reminds you who you are as a player.",
+          "Here's what a basic mental warm-up includes.",
+          "Breathing — to settle your nervous system.",
+          "A cue word or phrase — to switch on your competitive mindset.",
+          "A brief visualisation — you, making the plays you want to make today.",
+          "And a final intention — what you want to bring to this performance.",
+          "That's it.",
+          "When you repeat it consistently, it becomes an anchor.",
+          "Your body and mind learn: when I run this sequence — it's game time.",
+          "Today, you're going to design yours.",
+          "Make it yours. Keep it simple. And use it every single time."
+        ],
+        "estimated_duration_sec": 118
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Let's run your mental warm-up. Breathe in... and out. Settle. Now — your cue word. Say it in your mind. The word that switches you on. Now picture yourself today. See yourself moving well. Making good decisions. Playing your game. Not perfect. Your game. Finally — set your intention. What do you want to bring to today? Hold it. That's your mental warm-up. Done. Your body is warm. Your mind is ready. Go."
+      },
+      "card": {
+        "title": "My Mental Warm-Up",
+        "key_message": "A consistent pre-performance routine builds consistent performance. Design yours. Use it every time.",
+        "fill_in_prompts": [
+          "My Routine:",
+          "1. Breathe — __ breaths to settle",
+          "2. Cue word — __________",
+          "3. Visualise — I see myself __________",
+          "4. Intention — Today I want to __________"
+        ],
+        "remember_line": "When I run this sequence — it's game time."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-07-age_13_14",
+      "week_number": 7,
+      "age_band": "age_13_14",
+      "title": "Your Mental Warm-Up",
+      "core_skill": "Pre-Performance Routine",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Structured, encouraging — building ownership",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Elite athletes don't leave their mental state to chance.",
+          "They don't walk onto the pitch hoping to feel focused.",
+          "They run a specific, deliberate sequence.",
+          "A pre-performance routine.",
+          "Not a superstition. Not ritual.",
+          "A biomechanically and neurologically grounded protocol.",
+          "Duration? Two to five minutes. That's it.",
+          "The routine serves three functions:",
+          "First: nervous system regulation via controlled breathing.",
+          "Second: competitive activation via a cue word or self-talk script.",
+          "Third: mental rehearsal — you visualising the plays, decisions, and mindset you'll execute.",
+          "Fourth: intention-setting. Not vague. Specific.",
+          "'Today I bring relentless focus in transition' — not 'I want to try hard.'",
+          "Research on elite performers — athletes, musicians, surgeons — shows that consistent pre-performance routines reduce performance variability across matches.",
+          "You build stimulus-response automaticity.",
+          "When you run the same sequence, your nervous system learns: it's time to perform.",
+          "This week, you design yours.",
+          "Make it personal. Make it replicable.",
+          "Execute it identically every time.",
+          "This is how elite athletes build consistency."
+        ],
+        "estimated_duration_sec": 117
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Run your pre-performance protocol now. Controlled breathing: in for four, hold for two, out for five. Again. Your activation cue — the phrase that puts you in performance mode. Visualise: the moment, the decision, the execution you want today. Not perfection. Your best decision-making under pressure. Finally, your specific intention. What does elite focus look like for you today? Hold it. This sequence is your competitive anchor. Execute it identically every time. Your nervous system learns. Your performance becomes consistent. That's how you build elite reliability."
+      },
+      "card": {
+        "title": "My Pre-Performance Routine",
+        "key_message": "Consistent pre-performance routines reduce variability and build automaticity.",
+        "fill_in_prompts": [
+          "My Elite Pre-Match Protocol:",
+          "1. Breathing sequence — in: __ hold: __ out: __",
+          "2. Activation cue — __________",
+          "3. Visualisation focus — I see myself __________",
+          "4. Specific intention — Today I execute __________"
+        ],
+        "remember_line": "Same sequence, same state, same performance level."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-08-age_7_9",
+      "week_number": 8,
+      "age_band": "age_7_9",
+      "title": "Phase 1 Review",
+      "core_skill": "Integration",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Reflective, quietly proud — forward-looking",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Eight weeks. That's what you've done.",
+          "You learned what mental fitness is.",
+          "You learned your feelings are telling you something.",
+          "You learned to build confidence from real things.",
+          "You learned how to reset after mistakes.",
+          "You learned to focus. To breathe. To get ready.",
+          "And you learned to design your own warm-up.",
+          "That's a lot.",
+          "But here's the thing that matters most.",
+          "None of this works if you don't use it.",
+          "Using it in real games. Real moments. When it's hard.",
+          "Not in sessions. In matches.",
+          "Not when you're calm. When you're scared or angry.",
+          "That's when the work shows up.",
+          "Think about the last eight weeks.",
+          "What's one thing you actually did? In a game?",
+          "You reset? You breathed? You said your cue word?",
+          "That's real growth.",
+          "Now pick one thing — just one — and make it automatic.",
+          "Use it every single time until it's as natural as passing.",
+          "You've built your tools. Now you use them."
+        ],
+        "estimated_duration_sec": 107
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Take a moment. Think back. What's one thing you've actually used in a real game? You reset faster? You breathed when you were nervous? You felt more confident? That's real. That's you growing. Now I want you to pick one thing — just one — that you're going to use every single time. Not sometimes. Every time. That's how a skill becomes automatic. Like passing. Like your position sense. You practice it until it's yours. Pick it. Use it. That's how you keep building."
+      },
+      "card": {
+        "title": "Phase 1 Review",
+        "key_message": "Mental fitness is built in real games, not in sessions.",
+        "fill_in_prompts": [
+          "My Real-Game Moment:",
+          "One thing I used in a match: __________",
+          "It helped me because: __________",
+          "My one automatic skill: __________"
+        ],
+        "remember_line": "I'm using this. Not just learning it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-08-age_10_12",
+      "week_number": 8,
+      "age_band": "age_10_12",
+      "title": "Phase 1 Review",
+      "core_skill": "Integration",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Reflective, quietly proud — forward-looking",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Eight weeks in.",
+          "You've covered a lot of ground.",
+          "What is mental fitness.",
+          "How emotions give you information.",
+          "How to build confidence from evidence.",
+          "How to treat mistakes as data — and reset.",
+          "How to focus your attention.",
+          "How to control your body through breathing.",
+          "And how to design a pre-performance routine that's yours.",
+          "None of this is theory.",
+          "This is a toolkit. And you've been building it for eight weeks.",
+          "The most important question now isn't what you've learned.",
+          "It's: what have you actually used?",
+          "Because mental fitness isn't built in sessions.",
+          "It's built in the moments between sessions.",
+          "The game where you reset after a mistake instead of spiralling.",
+          "The match where you ran your mental warm-up and felt the difference.",
+          "Those moments are the proof that this is working.",
+          "Today is about noticing your own progress.",
+          "Reflecting on what's landed.",
+          "And deciding which one tool — just one — you're going to commit to using every time.",
+          "You've done the foundation work.",
+          "You're ready to build on it."
+        ],
+        "estimated_duration_sec": 117
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Take a quiet moment. Think back over the last eight weeks. What's one thing you've learned that you've actually used? Maybe it was the breathing before a tough moment. Maybe you reset faster after a mistake. Maybe your confidence felt different. Whatever it was — that's real growth. You've been doing the work. Take a breath. Now — what's the one mental skill you're going to make automatic? Choose it. Commit to it. You've built the foundation. Now you build the habit."
+      },
+      "card": {
+        "title": "Phase 1 Review",
+        "key_message": "Mental fitness is built in the moments between sessions — not in them.",
+        "fill_in_prompts": [
+          "My Progress:",
+          "My strongest mental skill so far: __________",
+          "A moment I used it in a real game or training: __________",
+          "The one skill I'm committing to: __________"
+        ],
+        "remember_line": "I'm not just learning this — I'm using it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-08-age_13_14",
+      "week_number": 8,
+      "age_band": "age_13_14",
+      "title": "Phase 1 Review",
+      "core_skill": "Integration",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Reflective, quietly proud — forward-looking",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Eight weeks of Phase 1 complete.",
+          "You've covered foundational mental fitness across eight domains.",
+          "Mental fitness definition. Emotional literacy. Confidence architecture. Error recovery. Attentional control. Somatic regulation. Pre-performance protocol. Integration.",
+          "You've also learned something non-obvious: comprehension is not capability.",
+          "Knowing about breathing isn't breathing under pressure.",
+          "Understanding confidence architecture isn't reconstructing self-efficacy after a poor performance.",
+          "The evidence is clear — elite performers separate learning from doing.",
+          "Research on deliberate practice (Ericsson) shows that gains occur not in passive consumption, but in struggle and iteration.",
+          "So the critical question is not: what do you know?",
+          "It's: where have you applied it under real pressure?",
+          "Which skill did you deploy when stakes mattered?",
+          "Which moment shifted because you chose differently?",
+          "That's your real Phase 1 outcome.",
+          "Not knowledge. Behaviour change.",
+          "Today, you identify your one anchor skill — the mental tool you're committing to make automatic.",
+          "Not five tools. One.",
+          "You build mastery through repetition, not breadth.",
+          "That's the foundation for Phase 2."
+        ],
+        "estimated_duration_sec": 117
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Reflect on eight weeks. Not on what you learned. On where you chose differently. A moment you reset instead of ruminating. A match where your routine anchored you. A game where you reframed pressure as activation. That's your real evidence of growth. Now choose one skill — your anchor. Not because it's the most impressive. Because you can execute it under pressure. Commit to mastery of that one. Repetition creates automaticity. Automaticity frees your focus for the next layer. That's elite progression. You've built the foundation. Now you build the habit."
+      },
+      "card": {
+        "title": "Phase 1 Integration",
+        "key_message": "Comprehension is not capability. Your anchor skill becomes automatic through iteration under pressure.",
+        "fill_in_prompts": [
+          "My Phase 1 Application:",
+          "Moment I chose differently: __________",
+          "My anchor skill (mastery focus): __________",
+          "How I'll execute it automatically: __________"
+        ],
+        "remember_line": "I apply, not just absorb. One skill, mastered."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-09-age_7_9",
+      "week_number": 9,
+      "age_band": "age_7_9",
+      "title": "Pressure: Friend or Foe?",
+      "core_skill": "Pressure Reframe",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Slightly provocative, energising, science-backed",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Before a big game, what do you feel?",
+          "Your heart. Fast.",
+          "Your belly. Tight.",
+          "Your head. Racing.",
+          "Most people think: something is wrong.",
+          "They're not ready. They should feel calm.",
+          "They try to make it go away. Push it down.",
+          "And it gets worse.",
+          "Here's what science says: that feeling is your body getting ready.",
+          "Your nervous system saying: this matters. I'm switching on.",
+          "Excitement and pressure feel exactly the same in your body.",
+          "Your heart races. You feel alive.",
+          "The only thing different is what you call it.",
+          "Some athletes call it fear. Some call it excitement.",
+          "Guess who plays better?",
+          "The ones who call it excitement.",
+          "It's not magic. It's real.",
+          "You can't turn off the feeling.",
+          "But you can change what it means.",
+          "So before your next big game, try this:",
+          "Feel the nerves. Then say: 'I am excited.'",
+          "Because you are. Your body is ready. Use it."
+        ],
+        "estimated_duration_sec": 105
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before your next big game, notice what your body is doing. Heart racing. Butterflies. Tight feeling. Don't fight it. Say this: 'I am excited.' Let yourself feel it that way. Your body is ready. This is good. Your nerves mean you care. Your energy means you're ready. That's not a problem. That's power. Take a breath. Feel it. Use it. Go show them what you've got."
+      },
+      "card": {
+        "title": "I Am Excited",
+        "key_message": "Pressure and excitement feel the same. You choose which one it is.",
+        "fill_in_prompts": [
+          "When pressure hits:",
+          "1. I notice it — heart, breathing, belly",
+          "2. I say: 'I am excited'",
+          "3. I use the energy",
+          "My feeling word: __________"
+        ],
+        "remember_line": "I am excited. My body is ready."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-09-age_10_12",
+      "week_number": 9,
+      "age_band": "age_10_12",
+      "title": "Pressure: Friend or Foe?",
+      "core_skill": "Pressure Reframe",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Slightly provocative, energising, science-backed",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "What does pressure feel like to you?",
+          "Heart pounding. Stomach tight. Mind racing.",
+          "Sound familiar?",
+          "Here's what most athletes believe: those feelings mean something is wrong.",
+          "That they're not ready. That they should be calmer.",
+          "And trying to get rid of those feelings? That usually makes them worse.",
+          "Here's what the science actually says.",
+          "Pressure is your body activating.",
+          "It's your nervous system saying: this matters — and I'm getting ready.",
+          "The physical experience of pressure and the physical experience of excitement —",
+          "— are nearly identical.",
+          "The only difference is the story you tell yourself about what it means.",
+          "Researchers at Harvard found that athletes who said 'I am excited' before a high-pressure performance —",
+          "— not 'calm down,' not 'relax' —",
+          "— performed measurably better.",
+          "I am excited.",
+          "You can't turn off the pressure.",
+          "But you can change what it means to you.",
+          "Pressure means you care. Pressure means your body is ready.",
+          "The athletes who learn to use it — instead of fight it — are the ones you want to watch.",
+          "Be one of them."
+        ],
+        "estimated_duration_sec": 117
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before your game, I want you to try something. Feel the nerves. The heart rate. The butterflies. And instead of fighting it — say this: 'I am excited.' Just those three words. Let yourself feel it as excitement. Your body is ready. This matters to you. That's a good thing. Take a breath. Feel the energy. Now use it. This is your moment. Your body is telling you so. Go play."
+      },
+      "card": {
+        "title": "Pressure Is Your Friend",
+        "key_message": "The physical feeling of pressure and excitement are the same. You choose the label.",
+        "fill_in_prompts": [
+          "When pressure hits:",
+          "1. Notice it — don't fight it",
+          "2. Say: 'I am excited'",
+          "3. Use the energy — don't waste it",
+          "My pressure reset word: __________"
+        ],
+        "remember_line": "Pressure means I care. My body is ready. I use it."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-09-age_13_14",
+      "week_number": 9,
+      "age_band": "age_13_14",
+      "title": "Pressure: Friend or Foe?",
+      "core_skill": "Pressure Reframe",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Slightly provocative, energising, science-backed",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "What does high-pressure performance feel like?",
+          "Elevated heart rate. Heightened sympathetic activation. Attention narrowing.",
+          "Most athletes interpret these signals as threat.",
+          "They attempt suppression. Catastrophise.",
+          "The neuroscience is clear: avoidant appraisals intensify threat perception and impair prefrontal function.",
+          "Here's what research shows instead.",
+          "The somatic markers of pressure and optimal performance arousal are neurologically indistinguishable.",
+          "Your heart rate at 'threat' is identical to your heart rate at 'peak readiness.'",
+          "The appraisal — your interpretation — determines the outcome.",
+          "Jamieson's Harvard research (2012) demonstrated that reframing pressure as enhancing —",
+          "saying 'I am excited' before high-stakes performance —",
+          "improved cardiovascular efficiency, reduced stress hormones, and increased parasympathetic tone during task execution.",
+          "This isn't positive thinking. It's neurobiological reality.",
+          "When you reframe pressure as a positive stressor (eustress), your vascular function improves.",
+          "Your working memory capacity increases.",
+          "Your decision-making sharpens.",
+          "Elite athletes don't eliminate pressure. They redirect it.",
+          "You're learning to do the same.",
+          "This is performance science applied."
+        ],
+        "estimated_duration_sec": 113
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before your match, notice your cardiovascular state. Heart rate elevated. Breathing quickened. This is neural preparation. Don't suppress it. Reframe it. Say: 'I am excited. My body is optimised.' This is neurobiologically active — not metaphorical. Your appraisal shifts your vascular tone, your hormone profile, your cognitive bandwidth. You're not managing anxiety. You're channelling eustress into performance. Take a controlled breath. Anchor your intensity. Now execute at your best. Your system is primed."
+      },
+      "card": {
+        "title": "Pressure as Performance Enhancement",
+        "key_message": "Pressure and optimal arousal are neurologically identical. Your appraisal determines the outcome.",
+        "fill_in_prompts": [
+          "My Pressure-Reframe Protocol:",
+          "Physical signal I notice: __________",
+          "My reframe: 'I am __________'",
+          "One specific advantage this gives me: __________"
+        ],
+        "remember_line": "I reframe pressure as eustress. My nervous system is optimised."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-10-age_7_9",
+      "week_number": 10,
+      "age_band": "age_7_9",
+      "title": "Team Energy",
+      "core_skill": "Group Cohesion",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Connective, genuine, collective",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "You are a better player when you train your mind.",
+          "But football is not just about you.",
+          "It's about your team.",
+          "Think about the best team you've been in.",
+          "What made it good?",
+          "Probably you felt safe.",
+          "Like you could try hard and your mates would help you.",
+          "You could make a mistake and they would back you up.",
+          "That's not luck.",
+          "That's a team that works together.",
+          "And it starts with small things.",
+          "What you say when someone makes a mistake.",
+          "How you celebrate when someone does something good.",
+          "Being the friend who lifts everyone up.",
+          "Your team's energy comes from what you bring to it.",
+          "Today, pick one mate and tell them something real you noticed.",
+          "Not just 'good game'.",
+          "Something that matters.",
+          "And when things get hard, choose to be the energy you want to see.",
+          "One player can change how the whole team feels."
+        ],
+        "estimated_duration_sec": 98
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Your team needs you to bring energy today. Not fake energy. Real energy. Think of one mate who lifts you up. Now be that for someone else. Pick one person and tell them something real you saw them do well. Not 'good game' — something you actually noticed. When things get tough, and they will, choose to be the person who stays calm and helps everyone reset. You're not just a player. You're a teammate. That's what makes you strong."
+      },
+      "card": {
+        "title": "Team Energy",
+        "key_message": "Your team is stronger when you bring good energy. You can change how everyone feels.",
+        "fill_in_prompts": [
+          "This week, I will:",
+          "Tell one mate something real I noticed",
+          "Be calm when things go wrong",
+          "Help my team reset",
+          "Our team cue word: __________"
+        ],
+        "remember_line": "I can be the energy my team needs."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-10-age_10_12",
+      "week_number": 10,
+      "age_band": "age_10_12",
+      "title": "Team Energy",
+      "core_skill": "Group Cohesion",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Connective, genuine, collective",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Individual mental fitness makes you a better athlete.",
+          "But sport isn't just individual.",
+          "And the mental environment of your team —",
+          "— the energy in the changing room,",
+          "— the way players respond to mistakes,",
+          "— what gets said when things go wrong —",
+          "— that shapes how every single one of you performs.",
+          "Think about the best team you've ever been part of.",
+          "What did it feel like to be in that group?",
+          "Probably: safe. Honest.",
+          "Like you could take a risk and the team would back you.",
+          "That's not an accident.",
+          "That's a team that has built psychological safety.",
+          "And it starts with small things.",
+          "What you say after a teammate makes a mistake.",
+          "How you celebrate small wins.",
+          "Whether people actually talk to each other before the game.",
+          "Your individual mental skills — breathing, focus, confidence —",
+          "— are amplified when your whole team practises them together.",
+          "A team huddle. A shared cue word. A team reset signal.",
+          "These aren't soft things. They're competitive advantages.",
+          "Today, you're going to start building your team's mental environment.",
+          "Not just your own."
+        ],
+        "estimated_duration_sec": 117
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Think about your team for a moment. Who lifts the energy when things are tough? What does it feel like when everyone is connected? Today, I want you to bring something to the group. Pick one person and give them a specific piece of encouragement. Not 'good game' — something real. Something you noticed. And when things go hard today — and they might — choose to be the energy you want to see. One player making the right choice changes the whole environment. That player can be you. Take a breath. Go be a great teammate."
+      },
+      "card": {
+        "title": "Team Energy",
+        "key_message": "Your mental skills are amplified in a team. The environment you build together is a competitive advantage.",
+        "fill_in_prompts": [
+          "This week, I will:",
+          "Give one teammate specific, honest encouragement",
+          "Be the first to reset when things go wrong",
+          "Help build our team huddle ritual",
+          "Our team cue word: __________"
+        ],
+        "remember_line": "I choose to be the energy I want to see."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-10-age_13_14",
+      "week_number": 10,
+      "age_band": "age_13_14",
+      "title": "Team Energy",
+      "core_skill": "Group Cohesion",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Connective, genuine, collective",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Individual mental fitness makes you a better athlete.",
+          "But elite-level performance is never individual.",
+          "The psychological safety of your team — the norms you create, the recovery culture, the accountability — these are measurable performance levers.",
+          "Research into high-performing teams shows: cohesion compounds individual skill.",
+          "The mental environment you build shapes every player's nervous system response under pressure.",
+          "Think about a team that felt resilient. What did it look like?",
+          "Probably: safe enough to fail. Honest feedback. Recovery was valued.",
+          "What you say after a team-mate makes a mistake.",
+          "How you celebrate small wins.",
+          "Whether you debrief together or isolate after losses.",
+          "These aren't soft skills. They're structural.",
+          "A team's collective mindset about failure directly predicts performance recovery time.",
+          "The fastest teams aren't the ones with no mistakes.",
+          "They're the ones with the best reset culture.",
+          "Your individual mental skills — breathing, focus, reframing — are amplified in collective practice.",
+          "A shared reset word. A team pre-match ritual. A coded communication system for pressure moments.",
+          "This week, you're moving from training your own mind to architecting your team's mental environment.",
+          "It starts with how you show up for one person.",
+          "Pick a team-mate. Give them specific, actionable feedback on something you observed.",
+          "Be the first to reset when tension rises.",
+          "That's leadership. That's what elite-level group cohesion looks like."
+        ],
+        "estimated_duration_sec": 119
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "As an elite athlete, you're starting to understand that individual mental fitness compounds in a team context. The research is clear: cohesion directly impacts performance. This week, you're shifting focus. You're not just training your own mind. You're architecting your team's mental environment. That starts with observation. Pick a team-mate and give them specific feedback — not generic praise, but something you noticed about their technical or mental execution. Then model resilience. When pressure spikes, be the first to reset. That single action changes your team's nervous system response. You're not a player who happens to be in a team. You're a leader who shapes the environment every team-mate performs in. Act like it."
+      },
+      "card": {
+        "title": "Team Energy",
+        "key_message": "Cohesion is a measurable performance lever. You build it through recovery culture, honest feedback, and collective reset rituals.",
+        "fill_in_prompts": [
+          "This week, I will:",
+          "Give one team-mate specific behavioural feedback",
+          "Model nervous system reset under pressure",
+          "Initiate a team reset ritual",
+          "Our team's reset cue: __________"
+        ],
+        "remember_line": "I build my team's mental environment. Cohesion is a skill."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-11-age_7_9",
+      "week_number": 11,
+      "age_band": "age_7_9",
+      "title": "Setbacks and Bouncing Back",
+      "core_skill": "Resilience Basics",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Honest, empowering, no false comfort",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Everyone has a bad game.",
+          "Everyone gets dropped from the squad.",
+          "Everyone has a week where nothing goes right.",
+          "It's not about if it happens. It's about what you do next.",
+          "Bouncing back is a skill you can learn.",
+          "When you have a setback, it's okay to feel sad or cross.",
+          "Don't pretend it's fine when it's not.",
+          "Feel it for a bit. That's real.",
+          "But here's the bit that matters.",
+          "Find one thing you can do something about.",
+          "Just one. Not everything.",
+          "Maybe you work harder in training.",
+          "Maybe you ask your coach something.",
+          "Maybe you talk to a mate.",
+          "One thing. Do it.",
+          "Moving is what makes you bounce back.",
+          "You don't have to feel better first.",
+          "You just move, and then you feel better.",
+          "That's the secret.",
+          "You've got more in you than you think.",
+          "Start today."
+        ],
+        "estimated_duration_sec": 95
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "If you've had a rough time in football lately, this is for you. It's okay that it hurts. But I want you to do one thing today. Find one thing you can control. It might be how hard you try in training. A skill you want to work on. Someone you want to talk to. One thing. Do it now. Don't wait to feel better. Just move. Then the good feeling comes. You're stronger than this setback. Go."
+      },
+      "card": {
+        "title": "Bounce Back",
+        "key_message": "It's okay to feel bad. What matters is the one thing you do next.",
+        "fill_in_prompts": [
+          "When I have a setback:",
+          "1. Feel it; that's real",
+          "2. Find one thing I can do",
+          "3. Do that one thing",
+          "Right now, my one thing is: __________"
+        ],
+        "remember_line": "I don't wait to feel better. I move. Then I feel better."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-11-age_10_12",
+      "week_number": 11,
+      "age_band": "age_10_12",
+      "title": "Setbacks and Bouncing Back",
+      "core_skill": "Resilience Basics",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Honest, empowering, no false comfort",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Losing a big game.",
+          "Getting dropped from the squad.",
+          "Playing badly for three weeks in a row.",
+          "These things happen. To every athlete.",
+          "How you respond to them — not whether they happen —",
+          "— is what defines your development.",
+          "Resilience isn't about never feeling low.",
+          "It's not about pretending setbacks don't hurt.",
+          "They do. And it's okay that they do.",
+          "Resilience is about what you do next.",
+          "Research on elite athletes shows that the ones who bounce back fastest share a few things.",
+          "They allow themselves to feel it — briefly.",
+          "They don't bury it or pretend.",
+          "They look for what they can control. Not everything. Just one thing.",
+          "And they act on that one thing.",
+          "A decision. A training session. A conversation.",
+          "Movement creates momentum. Even small movement.",
+          "The worst thing you can do after a setback is nothing.",
+          "You don't have to feel better to start moving.",
+          "You just have to move.",
+          "That's the bounce-back process.",
+          "And you can start it today."
+        ],
+        "estimated_duration_sec": 117
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "If you've had a tough time recently in sport — a bad run, a big disappointment — this one is for you. It's okay that it hurt. Or still hurts. But there's one thing I want you to do today. Find one thing — just one — that you can control. It might be how hard you train this session. A skill you're going to work on. A conversation you've been putting off. One thing. Do it. Movement creates momentum. You're not waiting to feel better. You're choosing to move first. That's what bouncing back looks like. Take a breath. You've got this."
+      },
+      "card": {
+        "title": "Bounce Back",
+        "key_message": "Resilience is not about never feeling low. It's about what you do next.",
+        "fill_in_prompts": [
+          "The Bounce-Back Process:",
+          "1. Feel it — briefly; don't bury it",
+          "2. Find one thing I can control",
+          "3. Move on that one thing",
+          "Right now, my one thing is: __________"
+        ],
+        "remember_line": "I don't have to feel better to start moving. I just have to move."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-11-age_13_14",
+      "week_number": 11,
+      "age_band": "age_13_14",
+      "title": "Setbacks and Bouncing Back",
+      "core_skill": "Resilience Basics",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Honest, empowering, no false comfort",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Elite athletes aren't protected from setbacks. They respond to them differently.",
+          "Losing a title match.",
+          "Being dropped from squad.",
+          "A three-week performance plateau.",
+          "The variable isn't whether setbacks occur. It's the time-to-recovery metric.",
+          "Research from the American Psychological Association on elite performers shows a consistent pattern.",
+          "The fastest-recovering athletes share three behavioural markers.",
+          "First: they acknowledge the emotion. Not suppress it. Not perform stoicism. Acknowledge it.",
+          "Second: they rapidly identify what variables are within their control.",
+          "Not the referee's decision. Not the weather. What they can actually influence.",
+          "The training stimulus. The recovery protocol. The conversation with coaching staff.",
+          "Third: they act on that locus of control immediately.",
+          "Not when they feel motivated. Now.",
+          "Neurologically, action precedes mood change in resilience.",
+          "Movement doesn't wait for motivation. Movement creates momentum.",
+          "And momentum shifts your neural state.",
+          "What separates elite recovery from rumination is agency: seeing yourself as an actor, not a victim.",
+          "This week, your assignment is specific.",
+          "Identify one controllable variable you've been avoiding.",
+          "Act on it. Today.",
+          "That single decision is your resilience activation. Everything else follows from motion."
+        ],
+        "estimated_duration_sec": 118
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Elite recovery isn't emotional avoidance. It's controlled acknowledgement followed by rapid action on what you can control. Research shows elite athletes move through setbacks faster because they act faster, not because they feel less. This week, identify one controllable variable you've been avoiding — a skill gap, a conversation, a training adjustment. Act on it now. Not when you feel better. Now. Neurologically, action precedes mood. You're not waiting for motivation. You're generating momentum. That momentum shifts your state. Be an actor. Move."
+      },
+      "card": {
+        "title": "Bounce Back",
+        "key_message": "Elite recovery is action on what you control, not emotional avoidance. Movement precedes mood.",
+        "fill_in_prompts": [
+          "The Resilience Activation Process:",
+          "1. Acknowledge the emotion; don't suppress it",
+          "2. Identify one controllable variable",
+          "3. Act on it immediately",
+          "My controllable variable: __________"
+        ],
+        "remember_line": "I act on what I control. Action creates momentum. Momentum shifts state."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-12-age_7_9",
+      "week_number": 12,
+      "age_band": "age_7_9",
+      "title": "Phase 1 Showcase",
+      "core_skill": "Consolidation",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Honest celebration — proud without being hollow; forward-looking",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Twelve weeks.",
+          "You've been training your mind.",
+          "Most young players never do that.",
+          "But you did.",
+          "You learned what mental fitness means.",
+          "You learned to spot your feelings and what they mean.",
+          "You built real confidence.",
+          "You learned how to reset when you mess up.",
+          "You learned to focus.",
+          "You learned to breathe when you're scared.",
+          "You built your own warm-up routine.",
+          "You learned how to turn pressure into power.",
+          "You learned how to be a good team-mate.",
+          "And you learned what to do after a bad game.",
+          "All of that is inside you now.",
+          "It's not something you've been told.",
+          "It's something you've done.",
+          "And when you've practised something, it sticks.",
+          "In big games. In tough moments. When it counts.",
+          "Phase 1 is done.",
+          "Phase 2 is next.",
+          "You're ready for it."
+        ],
+        "estimated_duration_sec": 102
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "You've done something most players never do. You've trained your mind. Not just your feet. Your mind. Twelve weeks of work. That's real. Now take a breath and remind yourself: I've learned skills. Real skills. I know what to do. I've practised it. Now go and be the player you know you can be. You're ready."
+      },
+      "card": {
+        "title": "Phase 1 Complete",
+        "key_message": "You've built mental fitness skills. Now use them under pressure.",
+        "fill_in_prompts": [
+          "I've learned:",
+          "How to spot what I'm feeling",
+          "How to reset after a mistake",
+          "How to breathe when I'm scared",
+          "How to be a good team-mate",
+          "My strongest skill: __________",
+          "What I'll do in Phase 2: __________"
+        ],
+        "remember_line": "I've done the work. I'm ready."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-12-age_10_12",
+      "week_number": 12,
+      "age_band": "age_10_12",
+      "title": "Phase 1 Showcase",
+      "core_skill": "Consolidation",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Honest celebration — proud without being hollow; forward-looking",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Twelve weeks.",
+          "That's how long you've been training your mind.",
+          "You've built a toolkit that most athletes never get.",
+          "Mental fitness awareness.",
+          "Emotional understanding.",
+          "Confidence you've built from real evidence.",
+          "The ability to reset after mistakes.",
+          "To focus your attention.",
+          "To control your body through breathing.",
+          "A pre-performance routine that's yours.",
+          "The ability to reframe pressure.",
+          "To be a better teammate.",
+          "And the knowledge that setbacks are just the next thing to respond to.",
+          "This isn't a list of things you've been taught.",
+          "This is a set of skills you've actually practised.",
+          "And here's what happens with practised skills:",
+          "They become automatic.",
+          "Under pressure. In the big moments. When it counts.",
+          "That's when Phase 1 starts paying off.",
+          "Phase 1 complete.",
+          "Phase 2 begins.",
+          "You're ready."
+        ],
+        "estimated_duration_sec": 115
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "Before you walk into today's showcase, take a moment. Think about who you were on week one. And who you are now. Not a different person. But a more equipped one. You have tools now. Real tools. Take a breath and remind yourself: I've done the work. I know what I can do. I'm ready. Today, just be yourself. The version of yourself that's been showing up for twelve weeks. That player is more than enough. Let's go."
+      },
+      "card": {
+        "title": "Phase 1 Complete",
+        "key_message": "You've built a mental fitness foundation. Now make it automatic.",
+        "fill_in_prompts": [
+          "My Phase 1 Toolkit:",
+          "Mental fitness awareness",
+          "Emotional understanding",
+          "Confidence triangle",
+          "Mistake reset process",
+          "Focus anchor",
+          "Box breathing",
+          "Pre-performance routine",
+          "Pressure reframe",
+          "Team contribution",
+          "Bounce-back process",
+          "My strongest mental skill: __________",
+          "My commitment for Phase 2: __________"
+        ],
+        "remember_line": "I've done the work. I'm ready."
+      },
+      "needs_variant": false
+    },
+    {
+      "session_key": "week-12-age_13_14",
+      "week_number": 12,
+      "age_band": "age_13_14",
+      "title": "Phase 1 Showcase",
+      "core_skill": "Consolidation",
+      "video": {
+        "production_spec": {
+          "avatar": "Young adult, diverse ethnicity, athletic wear, clean studio or simple sports background",
+          "tone": "Honest celebration — proud without being hollow; forward-looking",
+          "caption_style": "High contrast, large font, always on",
+          "duration_sec_target": [
+            85,
+            120
+          ]
+        },
+        "caption_lines": [
+          "Twelve weeks of deliberate mental fitness training.",
+          "You've built something most elite-development athletes don't access until late adolescence or not at all.",
+          "Meta-awareness of your emotional state and its performance impact.",
+          "The confidence triangle: evidence-based self-efficacy construction, not wishful thinking.",
+          "Attention control under pressure through validated focus-anchoring protocols.",
+          "Nervous system regulation through box breathing and biofeedback.",
+          "A personalised pre-performance activation sequence.",
+          "Cognitive reframing of pressure as opportunity — not just intellectually, but practised.",
+          "Group cohesion literacy: you understand how your individual state propagates into collective performance.",
+          "Controlled resilience activation: action on the locus of control.",
+          "This is the Phase 1 foundation.",
+          "It's not theoretical. It's ingrained.",
+          "You've practised these patterns across twelve weeks.",
+          "That repetition matters neurologically.",
+          "Deliberate practice encodes resilience at the nervous system level.",
+          "Under competition pressure — when executive function narrows — these protocols automatise.",
+          "That's when Phase 1 starts compounding.",
+          "You're not entering Phase 2 as a novice.",
+          "You're entering with a foundation that 95 percent of competitive young athletes don't have.",
+          "Phase 1 complete.",
+          "You've positioned yourself for elite-level development.",
+          "What you do with this foundation next is up to you."
+        ],
+        "estimated_duration_sec": 120
+      },
+      "voice": {
+        "production_spec": {
+          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "duration_sec_target": [
+            15,
+            45
+          ]
+        },
+        "full_script": "You've completed Phase 1. That matters. Most athletes your age don't have this foundation. You've built meta-awareness, evidence-based confidence, regulated nervous system response, and cohesion literacy. These aren't buzzwords. They're skills you've embedded through twelve weeks of practice. Under competition pressure, they'll automate. That's where the edge comes from. Now you're entering Phase 2 with something most don't. Positioning for elite-level development requires this foundation. You've built it. Now go use it."
+      },
+      "card": {
+        "title": "Phase 1 Complete",
+        "key_message": "You've built meta-awareness, evidence-based confidence, and nervous system regulation. These are your elite-development foundation.",
+        "fill_in_prompts": [
+          "My Phase 1 Consolidation:",
+          "Emotional meta-awareness skill level: __________",
+          "My strongest confidence anchor: __________",
+          "My focus control protocol: __________",
+          "My pre-performance sequence: __________",
+          "My group cohesion contribution: __________",
+          "My resilience activation trigger: __________",
+          "Phase 2 commitment: __________"
+        ],
+        "remember_line": "Phase 1 foundation embedded. Ready for elite-level development."
+      },
+      "needs_variant": false
+    }
+  ],
+  "last_updated_at": "2026-04-23T19:10:00Z"
+}

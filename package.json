@@ -1,0 +1,19 @@
+{
+  "name": "tpm-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "description": "The Player's Mind — Player / Coach / Parent apps + shared design system",
+  "scripts": {
+    "dev": "pnpm -r --parallel dev",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "pnpm -r lint"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  },
+  "packageManager": "pnpm@9.7.0",
+  "engines": {
+    "node": ">=20"
+  }
+}

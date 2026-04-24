@@ -1,0 +1,1906 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-23T20:15:00Z",
+  "source": "phase1.json v3",
+  "guides": [
+    {
+      "session_key": "week-01-age_7_9",
+      "week_number": 1,
+      "age_band": "age_7_9",
+      "session_title": "What Is Mental Fitness?",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Gather the group in a circle or huddle; eyes at your level",
+            "Settle them with three slow breaths together",
+            "Say: 'Today we start something new. Not physical training—mental training.'"
+          ],
+          "what_to_say": "You train your legs, your arms, your moves. But what about your mind? That's what we're doing today."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Use your own body as the demo: point to legs, arms, then head",
+            "Ask one player: 'What do you do when you feel scared before a game?' (listen, validate)",
+            "Introduce the core idea simply: 'Mental fitness is like physical fitness. You can get better at it.'"
+          ],
+          "what_to_say": "You're not bad at this yet. You just haven't learned it yet. And when you start young, you get really good at it."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 5,
+          "what_to_do": [
+            "Drill: 'Feelings Spot' — each player picks a corner or zone of the pitch",
+            "Name an emotion (excited, scared, angry, proud). Players physically move to that zone if they've felt it",
+            "Repeat with 4–5 emotions. Keep tempo light and playful",
+            "Bring back together: 'These feelings are normal. Everyone has them. You're going to learn what to do with them.'"
+          ],
+          "what_to_say": "When you feel scared, your body is trying to help you. It's not bad—it's your body getting ready."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Sit in a line or circle; ask 2–3 players: 'What's one thing you felt in this session?'",
+            "Affirm their answer without judgment",
+            "Close with the remember line"
+          ],
+          "what_to_say": "My mind is a skill I can train."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Keep language concrete. Avoid abstract psychology. Use their body and physical space to teach the concept.",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-01-age_10_12",
+      "week_number": 1,
+      "age_band": "age_10_12",
+      "session_title": "What Is Mental Fitness?",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Gather the group seated or standing comfortably",
+            "Acknowledge them: 'You train your technique every session. Today we're training something else.'",
+            "Play the video (approx 90–100 sec) with full audio"
+          ],
+          "what_to_say": "Every athlete from grassroots to professional has moments where their mind gets in the way. That's not weakness—it's a skill you haven't been trained in yet."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 4,
+          "what_to_do": [
+            "After video, draw the comparison on a board or in the sand: physical fitness vs. mental fitness",
+            "Ask: 'What does physical fitness training look like?' (repeats, consistency, progression)",
+            "Point out: 'Mental fitness is identical. Same training principles. Same results.'",
+            "Use one relatable moment: 'Nerves before a big game, or losing trust after a mistake.'"
+          ],
+          "what_to_say": "You can build mental fitness the same way you build physical fitness: through consistent, structured practice."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 5,
+          "what_to_do": [
+            "Drill: 'Emotion Scan' — players stand in a circle or spread across pitch",
+            "Call out a sport moment: 'You just missed a penalty.' Players physically show how their body felt (shoulders, face, stance)",
+            "Repeat with 3–4 scenarios (good pass, tough loss, nervous before match)",
+            "Debrief: 'Notice: everyone's body changes with different moments. That's normal. You learn to notice it and work with it.'"
+          ],
+          "what_to_say": "Mental fitness isn't a personality trait. It's a skill. And like any skill, you get better through practice."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask 2–3 players: 'What's one moment this week where you noticed your mind helping or hindering?'",
+            "Affirm and thank them for noticing",
+            "End with the remember line"
+          ],
+          "what_to_say": "My mind is a skill I can train."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This age band can handle the video without over-explaining. Trust the content; add only clarification if players ask. Emphasise the science angle lightly: 'Researchers have found this works.'",
+      "equipment_needed": ["Video playback", "Optional: whiteboard/marker"]
+    },
+    {
+      "session_key": "week-01-age_13_14",
+      "week_number": 1,
+      "age_band": "age_13_14",
+      "session_title": "What Is Mental Fitness?",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Brief contextual frame: 'This isn't coaching psychology. This is performance training. Elite athletes train their minds like they train their bodies.'",
+            "Play the video (approx 110 sec) with full audio",
+            "Note the research reference in the video for credibility"
+          ],
+          "what_to_say": "Research shows athletes who train mental skills early gain a measurable edge. That's not opinion—that's evidence."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief the video: 'You heard the word eustress. That's good stress—pressure that sharpens you, not crushes you.'",
+            "Introduce the foundation: 'Mental fitness = awareness + control. You notice what's happening. You choose what to do with it.'",
+            "Give one relatable technical example: 'When you miss a pass, do you spiral into self-criticism (loss of focus), or extract the learning and reset (mental fitness)?'",
+            "Frame it competitively: 'The players who process this fastest have an edge in the final 20 minutes of tight matches.'"
+          ],
+          "what_to_say": "Elite performers don't eliminate doubt. They process it faster. That's a trainable system."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Moment Audit' — give a realistic match scenario (last-minute equaliser conceded, poor personal performance, dropped for next match)",
+            "Players write or discuss: what's your first mental response? (judgment, fear, motivation?)",
+            "Reframe each response: 'That's your baseline. Today we start training a faster recovery.'",
+            "Quick live drill: 'Next three rondos, after every loss of possession, show me a reset (breath, reset word, physical shake-off).'",
+            "Observe and reinforce the reset behaviours when you see them"
+          ],
+          "what_to_say": "Mental fitness training is like technical training. You notice the gap. You work the gap. You close the gap."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Ask: 'What's one moment this week where you want to process faster or reset cleaner?'",
+            "Optional: 'This is your baseline. In 12 weeks, that recovery time is measurably shorter.'",
+            "End with the remember line"
+          ],
+          "what_to_say": "My mind is a skill I can train."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort responds well to competitive framing and measurement. Mention 'measurable improvement' and 'elite athletes do this.' Avoid over-explaining; trust their cognitive capacity.",
+      "equipment_needed": ["Video playback", "Optional: whiteboard or paper for moment audit"]
+    },
+    {
+      "session_key": "week-02-age_7_9",
+      "week_number": 2,
+      "age_band": "age_7_9",
+      "session_title": "Emotions in Sport",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'In your last game, what did you feel?' (Happy? Scared? Angry?)",
+            "Listen to 1–2 answers; validate: 'That's real.'",
+            "Introduce: 'Those feelings aren't problems. They're messages from your body.'"
+          ],
+          "what_to_say": "When you're scared, your body is trying to help. When you're angry, there's energy there."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Use hand gestures or simple drawings to show: fear = alert, anger = energy, happiness = connection",
+            "Say: 'The trick isn't to stop feeling things. It's to understand what your feelings are telling you.'",
+            "Model it yourself: 'Before a big game, I feel nervous. My body is saying: this matters. I'm ready.'"
+          ],
+          "what_to_say": "You start learning to notice your feelings like a detective. Not as a problem. As a clue."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 5,
+          "what_to_do": [
+            "Drill: 'Feeling Detective' — call out moments; players show their body response",
+            "Moments: 'You score a goal' (celebrate), 'You miss an easy pass' (frustrated), 'You get fouled' (angry), 'You're about to play' (nervous)",
+            "After each, ask: 'What is that feeling telling your body to do?' (Celebrate connection, Try harder, Stay alert, Get ready)",
+            "Wrap: 'When you notice what you're feeling, you can decide what to do next.'"
+          ],
+          "what_to_say": "When you notice what you feel, you're in control."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask one player: 'What's one feeling you had today? What was it telling you?'",
+            "Affirm their answer",
+            "Repeat the remember line with them"
+          ],
+          "what_to_say": "I notice what I feel—and I decide what I do with it."
+        }
+      ],
+      "safeguarding_note": "If a player shares difficult emotions (grief, family stress), listen with care but don't probe. Affirm and say: 'That's real. You can talk to your parent/coach about that too.' Keep the focus on noticing, not fixing.",
+      "age_band_notes": "Emotions are concrete at this age. Use body language, facial expressions, and simple language (angry, sad, excited, scared). Avoid clinical terms.",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-02-age_10_12",
+      "week_number": 2,
+      "age_band": "age_10_12",
+      "session_title": "Emotions in Sport",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Today's about understanding what your body is telling you.'",
+            "Play video (approx 105 sec)",
+            "Pause after key line: 'The problem isn't having emotions. The problem is not knowing what to do with them.'"
+          ],
+          "what_to_say": "Your emotions aren't in charge. You are. That's a skill, and it starts now."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 4,
+          "what_to_do": [
+            "Debrief: 'You heard—frustration means you care, nerves mean it matters, anger can be energy if you know how to use it.'",
+            "Draw a simple chart on a board: Emotion → Signal → What You Can Do",
+            "Fill in one example: Frustration → I care about this → Channel it into effort",
+            "Ask players for one more example (e.g. nerves → importance → use the activation)"
+          ],
+          "what_to_say": "When you understand what you're feeling, you can decide what to do with it instead of just reacting."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 5,
+          "what_to_do": [
+            "Drill: 'Emotion-to-Action' — 1v1 or 2v2 small-sided game",
+            "Mid-drill, pause and ask: 'Who just felt frustrated [or nervous, or excited]? What did you do with that feeling?'",
+            "Affirm the player who channelled it productively (worked harder, stayed calm, used the energy)",
+            "Repeat 2–3 times: pause, identify emotion, name the choice they made"
+          ],
+          "what_to_say": "Notice what you're feeling in the moment. Then decide what to do with it."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'What's one emotion you felt today? What did it tell you?'",
+            "Affirm and close"
+          ],
+          "what_to_say": "I notice what I feel—and I decide what I do with it."
+        }
+      ],
+      "safeguarding_note": "If a player discloses sustained anxiety, anger management issues, or emotional distress, listen supportively and refer to the club welfare officer. Note: 'It sounds like this is important for you. Let's make sure your coach/parents know so they can help.'",
+      "age_band_notes": "This age band begins to understand the nuance that emotions carry information. Avoid labelling feelings as 'good' or 'bad'—reframe as 'useful' or 'less useful right now.'",
+      "equipment_needed": ["Video playback", "Whiteboard/marker"]
+    },
+    {
+      "session_key": "week-02-age_13_14",
+      "week_number": 2,
+      "age_band": "age_13_14",
+      "session_title": "Emotions in Sport",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Open with: 'Today is about emotional granularity—learning to distinguish types of nerves, types of focus, types of drive.'",
+            "Play video (approx 115 sec); let the neuroscience language land"
+          ],
+          "what_to_say": "Elite athletes don't eliminate emotions. They develop emotional granularity—precision in understanding what they're feeling and why."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief the concept: 'Emotional granularity means you move beyond vague labels.'",
+            "Demo: 'Not just 'nervous'—but anticipatory nerves (before the match), performance nerves (during), or recovery nerves (after). Each needs a different response.'",
+            "Ask: 'Give me two types of focus you've experienced—maybe hyper-focus on the ball, or broad awareness of the shape. That's granularity.'",
+            "Link to performance: 'The better your emotional literacy, the faster you can choose a response that actually helps.'"
+          ],
+          "what_to_say": "Emotional granularity is the foundation of regulation. Precision in naming your state is the first step to managing it."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'State Naming Under Pressure' — 1v1 intense small-sided game with rotation",
+            "After 90 seconds, pause each pair: 'Name your state right now. Not just 'tired'—what's your energy like? Focused or scattered? Driven or hesitant?'",
+            "Player names their state; partner reflects it back: 'So you're energised but scattered?'",
+            "Resume; repeat once more. The naming itself sharpens their awareness"
+          ],
+          "what_to_say": "Precision in naming your emotional state is a performance skill. When you name it accurately, you can respond accurately."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'How did it feel to name your state in the moment? Did it change how you played?'",
+            "Optional: 'This is what elite athletes call meta-awareness—you're watching yourself from outside.'",
+            "Close with the remember line"
+          ],
+          "what_to_say": "I notice what I feel—and I decide what I do with it."
+        }
+      ],
+      "safeguarding_note": "If a player expresses sustained emotional difficulty (depression, anxiety, anger management), affirm and refer: 'This sounds like something worth exploring with a professional. I can help connect you with the club welfare officer.'",
+      "age_band_notes": "This cohort can handle psychological terminology ('meta-awareness,' 'emotional granularity') if paired with practical context. Emphasise the competitive advantage of precision.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-03-age_7_9",
+      "week_number": 3,
+      "age_band": "age_7_9",
+      "session_title": "The Confidence Triangle",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Can you build confidence like you build strength?'",
+            "Wait for answers; affirm any that point to practice or repetition",
+            "Introduce: 'Yes. Confidence comes from three things. Let me show you.'"
+          ],
+          "what_to_say": "Confidence isn't something you're born with. It's something you build."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Draw or use your hands to show three 'pillars' (or 'legs' of a triangle):",
+            "1. Stuff you've already done well (past success)",
+            "2. Actual skills you have (current capability)",
+            "3. What you say to yourself (self-talk)",
+            "Demo with yourself: 'I've trained hard this week. I know I can pass well. And I tell myself: I've got this.'",
+            "Emphasise: 'When one of these is low, you still have the other two. You can always rebuild.'"
+          ],
+          "what_to_say": "Even on a bad day, you can rebuild your confidence because you have real evidence underneath it."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 5,
+          "what_to_do": [
+            "Drill: 'Confidence Build' — small-sided game with breaks",
+            "After 3 minutes, pause and ask one player: 'What have you done well in this game?' (Listen, affirm)",
+            "Ask another: 'What's a skill you know you have?' (Affirm)",
+            "Ask a third: 'What do you tell yourself when you need to be confident?' (Affirm)",
+            "Resume play; repeat after another 3 minutes with different players"
+          ],
+          "what_to_say": "Your confidence is real. It's based on things you've actually done and things you actually can do."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask one player: 'What's one thing you've done well today?'",
+            "Affirm and close with the remember line"
+          ],
+          "what_to_say": "My confidence is built on evidence. I can always rebuild it."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Young players often struggle with self-belief. If a player says 'I'm not good at anything,' gently redirect: 'Let me point something out: you showed up today. You tried. That's evidence.' Build it brick by brick.",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-03-age_10_12",
+      "week_number": 3,
+      "age_band": "age_10_12",
+      "session_title": "The Confidence Triangle",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Confidence isn't something you have or don't have. It's something you can build—exactly like fitness.'",
+            "Play video (approx 115 sec)",
+            "Pause after: 'Confidence doesn't disappear. It just needs rebuilding.'"
+          ],
+          "what_to_say": "Think about building fitness. You train, you repeat, you improve. Confidence works the same way."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 4,
+          "what_to_do": [
+            "Draw the three sides of the confidence triangle on a board or in the sand:",
+            "1. What you've already done (evidence bank)",
+            "2. What you can actually do (real skills)",
+            "3. What you say to yourself (self-talk)",
+            "Demo: 'Even after a bad game, I still have evidence of good training. I still have real skills. And I can still tell myself something that helps.'",
+            "Key point: 'Elite athletes fill their evidence bank deliberately. They remember what they've done. They know what they can do.'"
+          ],
+          "what_to_say": "You're going to start filling your confidence bank with actual evidence—not empty words, but real proof."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 5,
+          "what_to_do": [
+            "Drill: 'Confidence Bank Builder' — 1v1 or 2v2 game with structured pauses",
+            "Every 2 minutes, pause one player and ask: 'What's one thing you've done well in this game?' (Document mentally or write it down)",
+            "Later ask: 'What's one skill you know you have?' (Affirm)",
+            "Later: 'What do you tell yourself when you need confidence?' (Affirm)",
+            "Reinforce: 'That's your confidence triangle. All three things are real.'"
+          ],
+          "what_to_say": "Your evidence bank is real. The more you notice it, the more available it is when you need it."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask 1–2 players: 'What's your one piece of evidence today?'",
+            "Affirm; close with the remember line"
+          ],
+          "what_to_say": "My confidence is built on evidence. I can always rebuild it."
+        }
+      ],
+      "safeguarding_note": "If a player struggles to identify any success, help them see small wins: 'You tried. You stayed engaged. You asked for feedback. Those are pieces of evidence.'",
+      "age_band_notes": "This age band sometimes dismisses their own competence. Frame it competitively: 'Elite athletes keep a running list of what they're good at. That's what we're doing.'",
+      "equipment_needed": ["Whiteboard/marker or paper to document evidence"]
+    },
+    {
+      "session_key": "week-03-age_13_14",
+      "week_number": 3,
+      "age_band": "age_13_14",
+      "session_title": "The Confidence Triangle",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Bandura's research on self-efficacy shows confidence is built from four sources—and we're starting with three.'",
+            "Play video (approx 120 sec); emphasise the research grounding"
+          ],
+          "what_to_say": "Confidence isn't a fixed trait. It's a trainable construct built from mastery experiences, actual skills, and self-talk."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief the four sources (mastery, skill, self-talk, observational learning): 'You've got all four available right now in your team.'",
+            "Draw the triangle with all three sides: mastery (what you've accomplished), skill (what you can do), self-talk (what you tell yourself)",
+            "Key insight: 'Even when one source is depleted—after a poor game—you have access to the other two. Resilience is about using all three.'",
+            "Competitive angle: 'Elite athletes don't lose confidence. They reconstruct it deliberately by accessing all three sources.'"
+          ],
+          "what_to_say": "Your evidence bank is bigger than you think. Mastery experiences, technical skills, and your own internal narrative—all of it counts."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Evidence-Based Reconstruction'—1v1 or 2v2 with deliberate pauses after mistakes",
+            "After a player makes an error: ask immediately, 'One mastery experience this season,' then 'One technical skill you've developed,' then 'One thing you'd tell yourself right now.'",
+            "The naming itself is the reset; then resume play",
+            "Repeat 2–3 times; reinforce: 'You just reconstructed your confidence from all three sources. That's a skill.'"
+          ],
+          "what_to_say": "Confidence reconstruction isn't about feeling better. It's about accessing evidence that's always been there."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'Which source—mastery, skill, or self-talk—was most accessible to you today?'",
+            "Affirm and explain: 'That's your go-to. The others are backups. But they're all real.'"
+          ],
+          "what_to_say": "My confidence is built on evidence. I can always rebuild it."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort can handle the research framing and will respond to competitive angle: 'Players who use all three sources recover faster from setbacks.'",
+      "equipment_needed": ["Video playback", "Optional: whiteboard for debrief"]
+    },
+    {
+      "session_key": "week-04-age_7_9",
+      "week_number": 4,
+      "age_band": "age_7_9",
+      "session_title": "Mistakes Are Data",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'What do you do after you make a mistake?'",
+            "Listen to 1–2 answers without judgment",
+            "Introduce: 'Today you're going to learn a different way.'"
+          ],
+          "what_to_say": "Your mistake is telling you something. It's like a message from your body about what to work on next."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 2,
+          "what_to_do": [
+            "Use an example: 'Your foot was in the wrong spot. You passed too soft. You weren't ready for that move.'",
+            "Say: 'That's not bad. That's useful. Now you know what to work on.'",
+            "Model: 'The best players in the world make mistakes all the time. They just learn from them fast.'"
+          ],
+          "what_to_say": "Notice what went wrong. Learn what to do better. Take a breath. Do it again. That's how you get stronger."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Notice-Learn-Move' — small-sided game with coached pauses",
+            "When a player makes a mistake, stop and ask: 'What happened?' (Notice) → 'What does that tell you?' (Learn) → 'Okay, let's go again' (Move)",
+            "Keep it positive and quick; don't dwell",
+            "Repeat 3–4 times throughout the session; reinforce the pattern"
+          ],
+          "what_to_say": "When you mess up, you're not upset—you're just learning."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Did anyone notice what they did wrong and what to work on?'",
+            "Affirm; close with the remember line"
+          ],
+          "what_to_say": "My mistake is just telling me what to practice."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "At this age, mistakes can trigger shame. Normalise them intensely: 'Every player here made a mistake today. And you're all learning. That's the whole thing.'",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-04-age_10_12",
+      "week_number": 4,
+      "age_band": "age_10_12",
+      "session_title": "Mistakes Are Data",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'What you do in the second after a mistake changes everything.'",
+            "Play video (approx 115 sec); let the key line land: 'While you're beating yourself up, the game has moved on.'"
+          ],
+          "what_to_say": "Most athletes spiral. Elite athletes process the mistake and move on. That's a trainable skill."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Introduce the reset sequence: Notice → Learn → Reset → Move On",
+            "Draw or write it clearly; point out: 'The whole thing takes 5 seconds.'",
+            "Key insight: 'Mistakes aren't failures. They're data. The best athletes take more risks because they process mistakes faster.'"
+          ],
+          "what_to_say": "Notice what happened. What does it tell you? Let it go. Back in the game. Four steps, five seconds. That's the skill."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Reset Protocol'—1v1 or 2v2 with coached resets",
+            "When a player makes an error, pause and say: 'Reset. Notice. Learn. Go.'",
+            "The player names the mistake, the learning, and shakes it off (physical gesture)",
+            "Resume immediately",
+            "Repeat 3–4 times per player; make it rhythmic"
+          ],
+          "what_to_say": "The reset is a physical and mental skill. You practice it until it's automatic."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Who felt the reset working? Did it help you stay in the game?'",
+            "Affirm; close with the remember line"
+          ],
+          "what_to_say": "I notice, learn, reset, and move on. Every time."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Some players internalise mistakes as personal failures. Emphasise repeatedly: 'Every mistake is just information. It's not about you as a person. It's about what you do next.'",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-04-age_13_14",
+      "week_number": 4,
+      "age_band": "age_13_14",
+      "session_title": "Mistakes Are Data",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Elite athletes process errors in real time. Rumination is expensive—it costs you focus on the next play.'",
+            "Play video (approx 120 sec); let the research on error processing land"
+          ],
+          "what_to_say": "Research on error processing in sport is clear: the faster you extract the learning, the faster you reset."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief the error-processing cycle: Notice → Name → Learn → Reset",
+            "Key: 'Naming the variable matters. Not vague self-blame, but specific observation.'",
+            "Example: 'Not 'I messed up,' but 'My positioning was 30cm off. Next time I adjust left.'",
+            "Competitive framing: 'The best players in your league take more risks than their peers because they have the fastest error-recovery loop.'"
+          ],
+          "what_to_say": "Your mistake is just a data point. Your response to it is what separates elite from average."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Variable Naming'—1v1 or 2v2 game with deliberate error pauses",
+            "When an error occurs, pause and ask: 'Which variable? Positioning, timing, or decision?'",
+            "Player names it; you affirm the precision",
+            "Player names the correction; resume",
+            "Repeat until the naming becomes automatic mid-game"
+          ],
+          "what_to_say": "Specific error naming is a trainable skill. The more precise you are, the faster you correct."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'How did it feel naming the variable instead of just spiralling?'",
+            "Affirm; optional: 'That's your competitive edge—fastest error processing in the match.'"
+          ],
+          "what_to_say": "My mistakes are data. My response is what separates elite from average."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort can handle neuroscience language and will respond to 'this is how elite athletes think.' Emphasise the measurable difference in performance.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-05-age_7_9",
+      "week_number": 5,
+      "age_band": "age_7_9",
+      "session_title": "Focus Fundamentals",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'You know that feeling when a game feels easy and you're just playing?'",
+            "Wait for recognition (nods or 'yes')",
+            "Introduce: 'That's focus. And you can learn to get it back whenever you want.'"
+          ],
+          "what_to_say": "Focus is like a light. You point it where you want to look. Some times you shine it on one thing. Other times you see everything."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 2,
+          "what_to_do": [
+            "Demo with your own body: point your head where you're focusing, then shift your focus",
+            "Say: 'Your brain gets lots of noise—your coach, the crowd, what you had for lunch. Good players turn off the noise by pointing their focus where it matters.'",
+            "Key: 'Your focus is like a muscle. The more you practice pointing it, the faster it goes where you want.'"
+          ],
+          "what_to_say": "Everyone's focus drifts. The trick is getting it back fast."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Focus Lock'—small-sided game with a focus word (e.g., 'Ball' or 'Next Pass')",
+            "When a player's focus drifts (you notice distraction), say their focus word loudly",
+            "They lock back in and resume",
+            "Repeat throughout the drill; make it rhythmic and positive",
+            "Optional: each player picks their own focus word"
+          ],
+          "what_to_say": "When your mind wanders, just say your focus word. Then lock back in. You're training your focus every time you do that."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Did you notice your focus drifting? Did you get it back?'",
+            "Affirm; close with the remember line"
+          ],
+          "what_to_say": "I can always bring my focus back. I'm getting better at it."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Young players have naturally short attention spans. Frame it positively: 'Your brain is supposed to wander. Everyone's does. We're just practicing getting it back faster.'",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-05-age_10_12",
+      "week_number": 5,
+      "age_band": "age_10_12",
+      "session_title": "Focus Fundamentals",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Focus is a skill. And like every skill, it has to be trained.'",
+            "Play video (approx 120 sec); let the neuroscience of attention land"
+          ],
+          "what_to_say": "Elite athletes don't have fewer distractions. They've trained their attention to come back faster when it drifts."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Introduce the two types of focus: Narrow (locked on one thing like the ball) and Broad (whole picture)",
+            "Say: 'Great players switch between both automatically. That's the skill.'",
+            "Key insight: 'You're not trying to stop your attention drifting. It will drift. You're training faster recovery.'",
+            "Demo: 'Watch the ball. Now notice the whole field. Now back to the ball. That's the cycle.'"
+          ],
+          "what_to_say": "Focus is trainable. The gap between drift and return is where the work happens."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Narrow-Broad-Return'—1v1 or 2v2 game with focus switches",
+            "Call out: 'Narrow!' (players lock on ball)",
+            "Call out: 'Broad!' (players see whole field and shape)",
+            "Resume play; repeat every 30 seconds",
+            "Observe: who switches fastest? Affirm that focus flexibility"
+          ],
+          "what_to_say": "The best players compress this cycle. They return to task focus in milliseconds, not seconds."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'When did your focus feel locked in today?'",
+            "Affirm; close with the remember line"
+          ],
+          "what_to_say": "I don't have to be perfect. I just have to keep coming back."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This age band often thinks perfect focus means no distraction. Reframe: 'Even the best players' attention shifts. The skill is the recovery, not the prevention.'",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-05-age_13_14",
+      "week_number": 5,
+      "age_band": "age_13_14",
+      "session_title": "Focus Fundamentals",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Elite focus isn't sustained attention. Your brain can't do that. Elite focus is attentional flexibility—the ability to switch and recover fast.'",
+            "Play video (approx 120 sec); the neuroscience language will resonate"
+          ],
+          "what_to_say": "Research on expert athletes shows the narrowest drift-to-return cycles correlate directly with performance consistency."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief the attentional cycle: Narrow → Broad → Drift → Return",
+            "Key: 'Drift is neurological, not a failure. Return speed is trainable.'",
+            "Competitive angle: 'The players with the tightest drift-return cycles in your league are the ones playing in the final 20 minutes. And that's why.'",
+            "Demo: 'Watch the ball (narrow). Check the field (broad). Notice the distraction (drift). Snap back (return). That's one cycle. Compress it. Master it.'"
+          ],
+          "what_to_say": "Your competitive edge is built on attentional fitness. Drift-return speed is measurable. And it's trainable."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Compression Cycles'—1v1 or 2v2 game with focus timer",
+            "Every 45 seconds, pause and ask: 'How many times did your attention drift and return in that window?'",
+            "Next cycle, push for faster return: 'Tighter cycles.'",
+            "Repeat; reinforce the measurement: 'The faster your cycle, the more consistent you are under pressure.'"
+          ],
+          "what_to_say": "Make that cycle automatic. When you're in match conditions under pressure, that trained cycle becomes your edge."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'How did it feel focusing on tightening your cycle instead of just "trying to focus"?'",
+            "Affirm; optional: 'You're building attentional fitness. That's elite-level mental training.'"
+          ],
+          "what_to_say": "My focus isn't fixed. It's flexible. And my recovery speed is my competitive edge."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort will respond well to the neuroscience framing and measurable component. Emphasise: 'This is how elite players train their attention.'",
+      "equipment_needed": ["Video playback", "Optional: timer or stopwatch"]
+    },
+    {
+      "session_key": "week-06-age_7_9",
+      "week_number": 6,
+      "age_band": "age_7_9",
+      "session_title": "Breathing and Body",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Before a big game, what happens to your body?'",
+            "Listen to 1–2 answers (heart fast, hands shake, tight chest)",
+            "Say: 'That's nerves. And everyone gets them. But here's the thing: your breath can change how your body feels.'"
+          ],
+          "what_to_say": "You can't tell your heart to slow down. You can tell your breathing to slow down. And when you do, your heart listens."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 2,
+          "what_to_do": [
+            "Teach box breathing with your own body as demo: 'Breathe in slow for four counts. Hold for three or four. Breathe out slow for four. Hold for three.'",
+            "Demo it with them; take them through one or two cycles together",
+            "Say: 'Do this before you play and you feel different. Your body can feel the difference.'"
+          ],
+          "what_to_say": "Your breath is the fastest way to tell your body you're okay. It always works."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Breath and Play'—small-sided game with breathing pauses",
+            "Every 2 minutes, stop and take one box-breathing cycle together",
+            "Resume play; repeat 3–4 times",
+            "Optional: ask if they notice the difference after breathing"
+          ],
+          "what_to_say": "When you're nervous before you play, this is what you do. Slow breath in, hold, slow breath out, hold."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Did anyone feel the difference when we did the slow breathing?'",
+            "Affirm; close with the remember line"
+          ],
+          "what_to_say": "My breath is my calm button. I can use it whenever I need to."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Young children respond well to concrete, physical practices. Box breathing works immediately for this age group. Repeat it multiple times.",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-06-age_10_12",
+      "week_number": 6,
+      "age_band": "age_10_12",
+      "session_title": "Breathing and Body",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Your body and mind are connected. When you're stressed, your brain reads that as danger.'",
+            "Play video (approx 115 sec); let the neuroscience of vagal regulation land"
+          ],
+          "what_to_say": "Controlled breathing sends a direct signal to your brain: we're safe, we're ready, we're in control."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Teach box breathing live: in for 4, hold for 4, out for 4, hold for 4",
+            "Take them through two full cycles together; make it rhythmic",
+            "Say: 'Box breathing is used by special forces and elite athletes. It takes under two minutes and it always works.'",
+            "Key: 'You can't always control your thoughts. But you can control your breathing. And when you do, your thoughts follow.'"
+          ],
+          "what_to_say": "Your breath is the fastest, most reliable reset you have. It's always available. And it always works."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Pressure-and-Reset'—1v1 or 2v2 game with coached resets",
+            "Mid-game, introduce a stressor (e.g., 'Winner stays on; loser sits')",
+            "If you notice a player showing stress (tight shoulders, rushed play), say: 'Reset.'",
+            "Player stops, takes one box-breathing cycle, resumes",
+            "Repeat 3–4 times; reinforce: 'When things get hard, you breathe. Then you play.'"
+          ],
+          "what_to_say": "Do it once before a drill. Do it after a stressful moment on the pitch. Do it in the changing room when nerves kick in."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Did anyone feel the reset working when things got intense?'",
+            "Affirm; close with the remember line"
+          ],
+          "what_to_say": "My breath is always available. It always works."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This age band is receptive to the mind-body connection. Emphasise the science: 'Your nervous system actually changes when you breathe slowly. It's real biology.'",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-06-age_13_14",
+      "week_number": 6,
+      "age_band": "age_13_14",
+      "session_title": "Breathing and Body",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Your nervous system operates on an axis: sympathetic and parasympathetic. Controlled breathing activates parasympathetic recovery.'",
+            "Play video (approx 120 sec); let the vagal nerve and eustress language land"
+          ],
+          "what_to_say": "One 60-second cycle of box breathing shifts your nervous system state measurably. That's neurology, not metaphor."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief the nervous system axis: sympathetic (fight-or-flight) vs. parasympathetic (recovery)",
+            "Key: 'Too much sympathetic dominance triggers risk aversion. You need parasympathetic tone to regulate.'",
+            "Teach box breathing: in for 4, hold for 4, out for 4, hold for 4",
+            "Take them through one cycle; point out: 'Notice the shift in your physical state. That's measurable.'",
+            "Competitive frame: 'Players who master nervous system regulation under pressure perform measurably better in the final stages of matches.'"
+          ],
+          "what_to_say": "Your nervous system is trainable. Your breath is your regulation tool."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Regulation Under Pressure'—1v1 or 2v2 game with escalating intensity",
+            "Introduce high-stakes scenarios (tournament rules, elimination)",
+            "When you notice sympathetic dominance (rushed play, poor decision-making), intervene: 'Regulation cycle.'",
+            "Player takes one box-breathing protocol; resumes with measurably sharper decision-making",
+            "Repeat; reinforce: 'You're not managing anxiety. You're channelling eustress into performance.'"
+          ],
+          "what_to_say": "Before competition, before stressful moments, after errors—box breathing is your physiological toolkit."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'How did your decision-making shift after the breathing intervention?'",
+            "Affirm; optional: 'That's your parasympathetic brake in action. Master it and you own your activation state.'"
+          ],
+          "what_to_say": "My nervous system is trainable. My breath is my regulation tool."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort will respond powerfully to neuroscience language. Emphasise the measurable, biological aspects and the performance advantage.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-07-age_7_9",
+      "week_number": 7,
+      "age_band": "age_7_9",
+      "session_title": "Your Mental Warm-Up",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'You warm up your legs, your arms, your skills. But do you warm up your mind?'",
+            "Wait for recognition",
+            "Say: 'The best athletes do. They run through a quick routine before every game.'"
+          ],
+          "what_to_say": "It takes three minutes. Maybe five. And it helps your body and brain get ready together."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 2,
+          "what_to_do": [
+            "Introduce the four-step routine: Breathe → Say your cue word → Picture yourself → Set your goal",
+            "Demo each step with yourself",
+            "Say: 'When you do it the same way every time, your body learns. Your brain learns. And game time feels familiar. Safe. Ready.'"
+          ],
+          "what_to_say": "Same routine, same game. Ready, set, go."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Design Your Routine'—have each player create their own mental warm-up",
+            "Walk them through: pick your cue word (e.g., 'Go,' 'Ready,' 'Strong')",
+            "Visualise: ask them to close their eyes and see themselves playing well",
+            "Set intention: 'What do you want to bring today?'",
+            "Have them run through it once before a small-sided game; repeat it again later",
+            "Observe and affirm when you see them doing it"
+          ],
+          "what_to_say": "Keep it short. Keep it the same. Use it before every game."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Who designed their routine? Will you use it before your next game?'",
+            "Affirm; close with the remember line"
+          ],
+          "what_to_say": "Same routine, same game. Ready, set, go."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Young players often have superstitions. Frame this as more deliberate than that: 'It's not luck. It's training your brain to be ready.'",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-07-age_10_12",
+      "week_number": 7,
+      "age_band": "age_10_12",
+      "session_title": "Your Mental Warm-Up",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Consistent athletes have consistent routines. Not superstitions—deliberate sequences.'",
+            "Play video (approx 115 sec); emphasise: 'When you repeat it consistently, it becomes an anchor.'"
+          ],
+          "what_to_say": "Your body and mind learn: when I run this sequence—it's game time."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Introduce the four components: Breathing (settle nerves) → Cue word (switch on) → Visualisation (see yourself) → Intention (what you want to bring)",
+            "Demo each one; take them through a live example",
+            "Say: 'Make it yours. Keep it simple. Use it every single time. That's how an anchor works.'"
+          ],
+          "what_to_say": "When you repeat it consistently, it becomes an anchor. Your body and mind learn: it's game time."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Routine Design and Execution'—each player creates and practises their routine",
+            "Have them fill in: breathing (how many?), cue word (what word?), visualisation (what do you see?), intention (what do you bring?)",
+            "Have them run through it once before a game; observe and affirm",
+            "Have them run through it again before a different activity; reinforce: 'Same sequence = same readiness.'"
+          ],
+          "what_to_say": "Make it yours. Keep it simple. And use it every single time."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Will you commit to running this routine before every game?'",
+            "Affirm and close"
+          ],
+          "what_to_say": "When I run this sequence—it's game time."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Some players will over-complicate their routine. Encourage: 'Simple and consistent is stronger than complex and sporadic.'",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-07-age_13_14",
+      "week_number": 7,
+      "age_band": "age_13_14",
+      "session_title": "Your Mental Warm-Up",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Elite athletes don't leave mental state to chance. They run a deliberate protocol based on neurology and psychology.'",
+            "Play video (approx 120 sec); let the research on stimulus-response automaticity land"
+          ],
+          "what_to_say": "Research on elite performers shows consistent pre-performance routines reduce variability across matches."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief the protocol: Nervous system regulation → Competitive activation → Mental rehearsal → Intention setting",
+            "Key: 'Not vague. Specific. 'Today I bring relentless focus in transition,' not 'I want to try hard.'",
+            "Emphasise: 'When you run the same sequence, your nervous system learns: it's time to perform.'",
+            "Competitive angle: 'This is how elite athletes build consistency. You do the same preparation, you get the same readiness.'"
+          ],
+          "what_to_say": "Same sequence, same state, same performance level."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Protocol Design and Repetition'—each player builds their full protocol",
+            "Breathing sequence (specify: in for 4, hold for 2, out for 5), activation cue (specific word or phrase), visualisation focus (what decision, what execution), specific intention",
+            "Have them run it before a high-intensity game or drill",
+            "Repeat the protocol before a second activity; reinforce: 'Same sequence, same nervous system state.'",
+            "Observe automaticity improving"
+          ],
+          "what_to_say": "Execute it identically every time. Your nervous system learns. Your performance becomes consistent."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'How did running the same protocol before two different activities affect your readiness?'",
+            "Affirm; optional: 'That's stimulus-response automaticity. Run it every time and it becomes your competitive anchor.'"
+          ],
+          "what_to_say": "Same sequence, same state, same performance level."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort will engage with the neuroscience framing ('stimulus-response automaticity') and will appreciate the precision of specific intention-setting over vague aspirations.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-08-age_7_9",
+      "week_number": 8,
+      "age_band": "age_7_9",
+      "session_title": "Phase 1 Review",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'You've been training your mind for eight weeks. What have you learned?'",
+            "Listen to 1–2 answers; affirm all"
+          ],
+          "what_to_say": "You've done something most young players never do—you've trained your mind like you train your feet."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 2,
+          "what_to_do": [
+            "Recap the eight weeks in simple language: mental fitness, feelings, confidence, mistakes, focus, breathing, warm-up, and how to use it all",
+            "Key point: 'But here's the thing that matters most: none of this works if you don't use it in real games. Real moments. When it's hard.'"
+          ],
+          "what_to_say": "Using it in real games, real moments, when it's hard—that's when the work shows up."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Real-Game Application'—small-sided game with reflection breaks",
+            "During the game, pause and ask: 'Who just reset after a mistake? Who used their breathing? Who was confident?'",
+            "Affirm those moments specifically",
+            "After the game, ask: 'What's one thing you actually used from the last eight weeks?'",
+            "Have them pick one skill to make automatic"
+          ],
+          "what_to_say": "Pick it. Use it. That's how a skill becomes automatic. Like passing. Like your position sense."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'What's your one automatic skill?'",
+            "Affirm and close with the remember line"
+          ],
+          "what_to_say": "I'm using this. Not just learning it."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "At this age, learning happens through repeated application. Emphasise practice and use over 'understanding.'",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-08-age_10_12",
+      "week_number": 8,
+      "age_band": "age_10_12",
+      "session_title": "Phase 1 Review",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Play video (approx 115 sec); let the recap land",
+            "Pause after: 'Mental fitness is built in the moments between sessions—not in them.'"
+          ],
+          "what_to_say": "The most important question now isn't what you've learned. It's: what have you actually used?"
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Reflect with them on the eight weeks: mental fitness awareness, emotional understanding, confidence, mistakes, focus, breathing, pre-performance routine, pressure reframe, team energy, resilience",
+            "Key: 'This isn't theory. This is a toolkit. And proof that it's working is when you use it in real moments.'",
+            "Emphasise: 'Mental fitness is built in the game where you reset instead of spiralling. The match where you ran your warm-up and felt the difference.'"
+          ],
+          "what_to_say": "Mental fitness isn't built in sessions. It's built in the moments between sessions."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Toolkit Application'—higher-intensity game with reflection pauses",
+            "During the game, notice and affirm when you see mental skills in action: 'I saw you reset there,' 'I saw you breathe before that moment,' 'I saw you help your teammate.'",
+            "After, ask: 'Which one skill are you committing to use every time?'",
+            "Have each player name one skill"
+          ],
+          "what_to_say": "You've built the foundation. Now you build the habit."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'What's the one mental skill you're committing to?'",
+            "Affirm and close"
+          ],
+          "what_to_say": "I'm not just learning this—I'm using it."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This is the consolidation moment. Emphasis should be on behaviour change, not knowledge retention.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-08-age_13_14",
+      "week_number": 8,
+      "age_band": "age_13_14",
+      "session_title": "Phase 1 Review",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Comprehension is not capability. Knowing about breathing isn't breathing under pressure. That's the gap we're closing.'",
+            "Play video (approx 120 sec); let the research on deliberate practice land"
+          ],
+          "what_to_say": "Elite performers separate learning from doing. Gains occur not in passive consumption, but in struggle and iteration."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Reflect on eight weeks: meta-awareness, evidence-based confidence, attentional control, somatic regulation, pre-performance protocol, group cohesion, resilience activation",
+            "Key: 'Knowledge isn't capability. Where have you applied it under real pressure?'",
+            "Competitive frame: 'The critical question is not what you know. It's where you've applied it and how it's shifted your performance.'"
+          ],
+          "what_to_say": "Your real Phase 1 outcome is behaviour change, not knowledge."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Application Audit'—high-intensity game with structured debrief",
+            "Mid-game and post-game, ask each player: 'Which moment did you choose differently? Which skill did you deploy under pressure?'",
+            "Listen for specificity: 'I reset faster after that error,' not 'I used stuff.'",
+            "Affirm the precision of application",
+            "Have each player identify their anchor skill—the one they're mastering first"
+          ],
+          "what_to_say": "You build mastery through repetition, not breadth. Choose one skill. Master that."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'Your anchor skill—the one you're committing to automatic mastery?'",
+            "Affirm; optional: 'Repetition creates automaticity. Automaticity frees your focus for the next layer. That's elite progression.'"
+          ],
+          "what_to_say": "I apply, not just absorb. One skill, mastered."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort responds well to the research on deliberate practice and will engage with the gap between knowing and doing. Frame mastery as the next level.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-09-age_7_9",
+      "week_number": 9,
+      "age_band": "age_7_9",
+      "session_title": "Pressure: Friend or Foe?",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Before a big game, what do you feel? Your heart fast? Your belly tight?'",
+            "Listen; affirm: 'That's normal. Everyone feels that.'",
+            "Introduce: 'And guess what? We can change what that feeling means.'"
+          ],
+          "what_to_say": "Excitement and pressure feel exactly the same in your body. The only thing different is what you call it."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 2,
+          "what_to_do": [
+            "Say: 'When your heart races before a kick, your body is getting ready. That's not bad. That's your body saying: this matters. I'm switching on.'",
+            "Demo: 'Some athletes call it fear. Some call it excitement. Guess who plays better? The ones who call it excitement.'",
+            "Key: 'You can't turn off the feeling. But you can change what it means.'"
+          ],
+          "what_to_say": "Feel the nerves. Then say: I am excited. Because you are. Your body is ready. Use it."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Pressure Reframe'—small-sided game with high stakes introduced (e.g., 'Winner stays, loser sits')",
+            "Watch for signs of pressure (tight shoulders, rushed play)",
+            "When you see it, pause and say: 'You're excited. Feel that? Use that energy.'",
+            "Have them resume with that reframe",
+            "Observe improved performance after reframe"
+          ],
+          "what_to_say": "Your nerves mean you care. Your energy means you're ready. That's not a problem. That's power."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Did anyone feel different when they said 'I am excited' instead of 'I am scared'?'",
+            "Affirm and close with the remember line"
+          ],
+          "what_to_say": "I am excited. My body is ready."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Young players often feel shame about nerves. Reframe intensely: 'Nerves mean you care. Nerves mean you're ready. That's good.'",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-09-age_10_12",
+      "week_number": 9,
+      "age_band": "age_10_12",
+      "session_title": "Pressure: Friend or Foe?",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'What does pressure feel like to you?'",
+            "Play video (approx 115 sec); let the science land: 'The only difference is the story you tell yourself about what it means.'",
+            "Highlight: 'Researchers at Harvard found that athletes who said 'I am excited' performed measurably better.'"
+          ],
+          "what_to_say": "Pressure means you care. Pressure means your body is ready. The athletes who learn to use it—instead of fight it—are the ones you want to watch."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Recap: pressure and excitement are neurologically almost identical",
+            "Key: 'The only difference is the label you put on it.'",
+            "Demo: 'Heart pounding, stomach tight, mind racing. Is that anxiety? Or is it readiness?'",
+            "Teach the reframe: instead of 'calm down,' say 'I am excited.'"
+          ],
+          "what_to_say": "You can't turn off the pressure. But you can change what it means to you."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'High-Pressure Small-Sided Game'—introduce tournament stakes (winner advances, loser is out)",
+            "When players show pressure responses (tightness, rushed play), pause and say: 'Reframe. I am excited.'",
+            "Have them name the reframe, then resume",
+            "Observe decision-making and performance improve post-reframe",
+            "Repeat 2–3 times; reinforce the pattern"
+          ],
+          "what_to_say": "Before your game, try this. Feel the nerves. Say: 'I am excited.' Let yourself feel it that way."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Did the reframe change how you played?'",
+            "Affirm and close with the remember line"
+          ],
+          "what_to_say": "Pressure means I care. My body is ready. I use it."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This age band often ties pressure to shame. Reframe as science, not psychology: 'This is how your nervous system works. We're learning to use it.'",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-09-age_13_14",
+      "week_number": 9,
+      "age_band": "age_13_14",
+      "session_title": "Pressure: Friend or Foe?",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Jamieson's Harvard research showed that reframing pressure as enhancing improves cardiovascular efficiency and working memory capacity.'",
+            "Play video (approx 120 sec); the neuroscience language will resonate"
+          ],
+          "what_to_say": "This isn't positive thinking. It's neurobiological reality. When you reframe pressure as eustress, your vascular function improves."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief the research: somatic markers of pressure and optimal arousal are indistinguishable",
+            "Key: 'Your appraisal determines the outcome.'",
+            "Teach the reframe: 'I am excited. My body is optimised.'",
+            "Competitive angle: 'Elite athletes don't eliminate pressure. They redirect it into performance-enhancing activation.'"
+          ],
+          "what_to_say": "When you reframe pressure as eustress, your working memory capacity increases. Your decision-making sharpens."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Eustress Activation'—high-intensity, high-stakes game (tournament-style)",
+            "When you observe pressure responses (hesitation, conservative play), intervene: 'Notice your state. Reframe as eustress. Notice the shift in your decision-making.'",
+            "Have them explicitly name the reframe and observe performance change",
+            "Repeat; reinforce the neurobiological shift in real time"
+          ],
+          "what_to_say": "Your appraisal shifts your vascular tone, your hormone profile, your cognitive bandwidth. You're not managing anxiety. You're channelling eustress."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'How did your decision-making shift when you reframed pressure as eustress?'",
+            "Affirm; optional: 'That's a measurable difference in cognitive bandwidth. You've just experienced performance enhancement through appraisal.'"
+          ],
+          "what_to_say": "I reframe pressure as eustress. My nervous system is optimised."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort will engage with the research framing and the neurobiological mechanisms. Emphasise the measurable performance advantage of the reframe.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-10-age_7_9",
+      "week_number": 10,
+      "age_band": "age_7_9",
+      "session_title": "Team Energy",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Think about the best team you've been in. What made it good?'",
+            "Listen; affirm: 'That's what happens when people bring good energy.'",
+            "Introduce: 'And you can be that person. You can change how your whole team feels.'"
+          ],
+          "what_to_say": "Your team's energy comes from what you bring to it. One player can change how the whole team feels."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 2,
+          "what_to_do": [
+            "Say: 'It starts with small things. What you say when someone makes a mistake. How you celebrate when someone does something good. Being the friend who lifts everyone up.'",
+            "Demo: respond positively to an imagined teammate mistake; celebrate a success enthusiastically",
+            "Key: 'When things get hard, choose to be the energy you want to see.'"
+          ],
+          "what_to_say": "Today, pick one mate and tell them something real you noticed. Not just 'good game.' Something that matters."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Team Energy Build'—small-sided game with emphasis on encouragement",
+            "During the game, model and affirm positive team energy: specific praise, helping teammates reset, celebrating small wins",
+            "After a mistake, watch for which players encourage their teammate vs. criticise",
+            "Affirm the encouragers: 'That's team energy.'"
+          ],
+          "what_to_say": "When things get tough, and they will, choose to be the person who stays calm and helps everyone reset."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Who encouraged someone today?'",
+            "Affirm; close with the remember line"
+          ],
+          "what_to_say": "I can be the energy my team needs."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Young players are concrete in their thinking. Give specific examples of 'good energy': encouraging a teammate after a mistake, celebrating a good pass, helping someone reset.",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-10-age_10_12",
+      "week_number": 10,
+      "age_band": "age_10_12",
+      "session_title": "Team Energy",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Individual mental fitness makes you better. But the mental environment of your team shapes how everyone performs.'",
+            "Play video (approx 115 sec); let the concept of psychological safety land"
+          ],
+          "what_to_say": "Your individual mental skills are amplified when your whole team practises them together."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Ask: 'What did the best team you've been in feel like?'",
+            "Help them identify: safe, honest, like you could take a risk",
+            "Say: 'That's psychological safety. And it starts with small things.'",
+            "Examples: what you say after a teammate makes a mistake, how you celebrate wins, whether you talk before games"
+          ],
+          "what_to_say": "A team huddle, a shared cue word, a team reset signal—these aren't soft things. They're competitive advantages."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Psychological Safety Build'—small-sided game with team structure",
+            "Introduce a team reset signal (e.g., all clap once) that anyone can call",
+            "Introduce a team cue word that builds confidence together",
+            "Observe: who uses it? Who responds? Affirm both",
+            "Reinforce: 'When your whole team is using these, your performance compounds.'"
+          ],
+          "what_to_say": "Pick one person and give them a specific piece of encouragement. Not 'good game'—something real."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'How did it feel when the whole team used the signal together?'",
+            "Affirm and close with the remember line"
+          ],
+          "what_to_say": "I choose to be the energy I want to see."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This age band is beginning to understand group dynamics. Frame team mental skills as practical performance tools, not soft skills.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-10-age_13_14",
+      "week_number": 10,
+      "age_band": "age_13_14",
+      "session_title": "Team Energy",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Cohesion directly impacts performance. The mental environment you build shapes every player's nervous system response under pressure.'",
+            "Play video (approx 120 sec); let the research on high-performing teams land"
+          ],
+          "what_to_say": "Elite-level performance is never individual. Cohesion is a measurable performance lever."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief: 'A team's collective mindset about failure directly predicts performance recovery time.'",
+            "Key: 'The fastest teams aren't the ones with no mistakes. They're the ones with the best reset culture.'",
+            "Emphasise: 'What you say after a mistake, how you debrief losses, whether you recover together—these are structural performance variables.'"
+          ],
+          "what_to_say": "You're not just a player in a team. You're a leader who shapes the mental environment every player performs in."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Cohesion Architecture'—high-intensity game with team structure",
+            "Introduce team-wide resets (shared breathing, shared cue word, coded communication for pressure moments)",
+            "Observe: which players initiate? Which respond? Affirm both",
+            "During pauses, ask: 'How does your collective nervous system state shift when you use these rituals?'",
+            "Reinforce: 'You're not training individuals. You're architecting a team culture.'"
+          ],
+          "what_to_say": "Model resilience. When pressure spikes, be the first to reset. That single action changes your team's nervous system response."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'How did your performance shift when the whole team was using the same reset protocols?'",
+            "Affirm; optional: 'That's what elite-level group cohesion looks like. You're not solo athletes. You're a system.'"
+          ],
+          "what_to_say": "I build my team's mental environment. Cohesion is a skill."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort will engage with the research on cohesion and will respond to the leadership framing. Emphasise the measurable performance advantage of collective protocols.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-11-age_7_9",
+      "week_number": 11,
+      "age_band": "age_7_9",
+      "session_title": "Setbacks and Bouncing Back",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'Everyone has a bad game. Everyone gets dropped. Everyone has a week where nothing goes right.'",
+            "Wait for acknowledgement",
+            "Say: 'It's not about if it happens. It's about what you do next.'"
+          ],
+          "what_to_say": "Bouncing back is a skill you can learn."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 2,
+          "what_to_do": [
+            "Say: 'When you have a setback, it's okay to feel sad or cross. Don't pretend it's fine when it's not. Feel it for a bit.'",
+            "Key: 'But then find one thing you can do something about. Just one. Not everything.'",
+            "Demo: 'Maybe you work harder in training. Maybe you ask your coach something. Maybe you talk to a mate. One thing. Do it.'",
+            "Emphasise: 'Moving is what makes you bounce back. You don't have to feel better first. You just move, and then you feel better.'"
+          ],
+          "what_to_say": "You don't wait to feel better. You move. Then you feel better."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Bounce-Back Scenario'—simulate a setback (lose a game, make a major error)",
+            "Ask players: 'One thing you can do about this?'",
+            "Have them name it and do it immediately (e.g., ask for feedback, work on a skill)",
+            "Observe and affirm the action",
+            "Repeat with a different scenario"
+          ],
+          "what_to_say": "When you feel something strong, you don't sit with it. You notice it and you move."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'What's your one thing you'd do after a setback?'",
+            "Affirm and close with the remember line"
+          ],
+          "what_to_say": "I don't wait to feel better. I move. Then I feel better."
+        }
+      ],
+      "safeguarding_note": "If a player is experiencing a current setback (recent poor form, dropped from squad, family issue affecting sport), listen with care and normalise: 'This is hard. And you can move forward from here.' Consider mentioning support available (coach, parents, welfare officer).",
+      "age_band_notes": "Young players often believe setbacks are permanent. Emphasise: 'Setbacks are temporary. What you do next is what matters.'",
+      "equipment_needed": []
+    },
+    {
+      "session_key": "week-11-age_10_12",
+      "week_number": 11,
+      "age_band": "age_10_12",
+      "session_title": "Setbacks and Bouncing Back",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Resilience isn't about never feeling low. It's about what you do next.'",
+            "Play video (approx 115 sec); let the bounce-back process land"
+          ],
+          "what_to_say": "The worst thing you can do after a setback is nothing. You don't have to feel better to start moving."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Introduce the process: Feel it (briefly, don't bury) → Find one thing you can control → Move on that one thing",
+            "Key: 'Movement creates momentum. Even small movement.'",
+            "Demo: 'After a bad game, I could spiral or I could ask my coach for specific feedback. That's moving.'"
+          ],
+          "what_to_say": "Resilience is about what you do next. And you can start it today."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Bounce-Back Under Pressure'—simulate setbacks during a game",
+            "Pause after a significant error and ask: 'Feel it. Now find one thing you can control. What is it?'",
+            "Have them name it and immediately do it (adjust technique, ask for help, reset focus)",
+            "Affirm the action and movement",
+            "Repeat 2–3 times"
+          ],
+          "what_to_say": "Movement creates momentum. You're not waiting to feel better. You're choosing to move first."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'When you moved after a setback, did it help?'",
+            "Affirm and close with the remember line"
+          ],
+          "what_to_say": "I don't have to feel better to start moving. I just have to move."
+        }
+      ],
+      "safeguarding_note": "If a player is visibly struggling with a current setback, check in privately after the session. Affirm their resilience and connect them with appropriate support (coach, parents, welfare officer if needed).",
+      "age_band_notes": "This age band sometimes confuses resilience with emotional toughness. Clarify: 'Resilience is about moving forward, not about not feeling.'"
+    },
+    {
+      "session_key": "week-11-age_13_14",
+      "week_number": 11,
+      "age_band": "age_13_14",
+      "session_title": "Setbacks and Bouncing Back",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'Elite athletes aren't protected from setbacks. They respond to them differently. The variable is time-to-recovery.'",
+            "Play video (approx 120 sec); let the research on elite recovery land"
+          ],
+          "what_to_say": "What separates elite recovery from rumination is agency: seeing yourself as an actor, not a victim."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Debrief the behaviour markers: acknowledge the emotion → identify what's in your control → act immediately",
+            "Key: 'Neurologically, action precedes mood change in resilience. Movement doesn't wait for motivation. Movement creates momentum.'",
+            "Competitive angle: 'The fastest-recovering athletes move faster, not because they feel less. They act faster.'"
+          ],
+          "what_to_say": "Elite recovery is action on what you control, not emotional avoidance. Movement precedes mood."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Controlled Resilience Activation'—introduce significant setback during high-intensity game",
+            "When it occurs, intervene: 'Acknowledge. Identify the controllable variable. Act now.'",
+            "Have player name the emotion, name the variable, name the action",
+            "Watch the immediate momentum shift in their play",
+            "Repeat; reinforce: 'You're activating resilience through agency.'"
+          ],
+          "what_to_say": "This week, identify one controllable variable you've been avoiding. Act on it. Now. Not when you feel better."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'How did your performance shift when you moved instead of ruminated?'",
+            "Affirm; optional: 'That's the measurable difference between resilience and avoidance. Be an actor.'"
+          ],
+          "what_to_say": "I act on what I control. Action creates momentum. Momentum shifts state."
+        }
+      ],
+      "safeguarding_note": "If a player is experiencing a significant setback (serious injury, major loss, dropped from preferred team), check in privately. Affirm resilience and ensure they're connected with appropriate support (coaches, parents, welfare officer, counselling if available).",
+      "age_band_notes": "This cohort can handle the neuroscience framing and will respond to 'this is how elite athletes think.' Emphasise measurable recovery time and agency."
+    },
+    {
+      "session_key": "week-12-age_7_9",
+      "week_number": 12,
+      "age_band": "age_7_9",
+      "session_title": "Phase 1 Showcase",
+      "total_minutes": 10,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 1,
+          "what_to_do": [
+            "Say: 'Twelve weeks. You've done something most young players never do.'",
+            "Play the video (approx 100 sec); let the pride land"
+          ],
+          "what_to_say": "You've trained your mind. Not just your feet. Your mind."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 2,
+          "what_to_do": [
+            "Recap the twelve weeks: mental fitness, feelings, confidence, mistakes, focus, breathing, warm-up, pressure, team, setbacks",
+            "Key: 'None of this works if you don't use it. Using it in real games. Real moments. When it's hard.'",
+            "Emphasise: 'When you've practised something, it sticks. In big games. In tough moments. When it counts.'"
+          ],
+          "what_to_say": "It's not something you've been told. It's something you've done."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Phase 1 Celebration Game'—small-sided game that celebrates the twelve weeks",
+            "During the game, pause and ask: 'Who used something from the last twelve weeks? What was it?'",
+            "Affirm each response; make it visible and celebrated",
+            "After, ask: 'What's your strongest mental skill?'"
+          ],
+          "what_to_say": "Now pick one thing—just one—and make it automatic. Use it every single time until it's as natural as passing."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'What's one thing you'll keep using?'",
+            "Affirm and close with the remember line"
+          ],
+          "what_to_say": "I've done the work. I'm ready."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "Celebrate effort and engagement, not just outcomes. Young players respond well to visible, specific affirmation of their work.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-12-age_10_12",
+      "week_number": 12,
+      "age_band": "age_10_12",
+      "session_title": "Phase 1 Showcase",
+      "total_minutes": 12,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'You've built a mental fitness foundation. Now make it automatic.'",
+            "Play the video (approx 115 sec); celebrate the toolkit"
+          ],
+          "what_to_say": "Before you walk into today's showcase, take a moment. Think about who you were on week one. And who you are now."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 3,
+          "what_to_do": [
+            "Reflect on the toolkit: mental fitness awareness, emotional understanding, confidence triangle, mistake reset, focus control, box breathing, pre-performance routine, pressure reframe, team energy, bounce-back process",
+            "Key: 'Here's what happens with practised skills: they become automatic. Under pressure. In the big moments. When it counts.'",
+            "Emphasise: 'That's when Phase 1 starts paying off.'"
+          ],
+          "what_to_say": "You've done the work. You know what you can do. You're ready."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Phase 1 Application Game'—high-intensity game celebrating the twelve weeks",
+            "During the game, observe and affirm when you see mental skills in action",
+            "Pause and ask: 'What's one tool from the last twelve weeks that you used just then?'",
+            "Affirm specifically",
+            "After, ask: 'What's your strongest mental skill?'"
+          ],
+          "what_to_say": "Just be yourself. The version of yourself that's been showing up for twelve weeks. That player is more than enough."
+        },
+        {
+          "name": "Close",
+          "duration_min": 1,
+          "what_to_do": [
+            "Ask: 'What's your commitment for Phase 2?'",
+            "Affirm and close"
+          ],
+          "what_to_say": "I've done the work. I'm ready."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This is the consolidation moment. Affirmation should be specific and linked to observable behaviour, not generic praise.",
+      "equipment_needed": ["Video playback"]
+    },
+    {
+      "session_key": "week-12-age_13_14",
+      "week_number": 12,
+      "age_band": "age_13_14",
+      "session_title": "Phase 1 Showcase",
+      "total_minutes": 15,
+      "parts": [
+        {
+          "name": "Opening",
+          "duration_min": 2,
+          "what_to_do": [
+            "Frame: 'You've completed Phase 1. Twelve weeks of deliberate mental fitness training.'",
+            "Play the video (approx 120 sec); let the research on elite development land"
+          ],
+          "what_to_say": "You're not entering Phase 2 as a novice. You're entering with a foundation that 95 percent of competitive young athletes don't have."
+        },
+        {
+          "name": "Core concept",
+          "duration_min": 5,
+          "what_to_do": [
+            "Reflect on twelve weeks: meta-awareness, evidence-based confidence, attentional control, somatic regulation, pre-performance protocol, group cohesion literacy, resilience activation, integration",
+            "Key: 'Comprehension is not capability. Where have you applied this under real pressure?'",
+            "Emphasise: 'That's your real Phase 1 outcome. Not knowledge. Behaviour change.'",
+            "Competitive frame: 'You've positioned yourself for elite-level development. What you do with this foundation next is up to you.'"
+          ],
+          "what_to_say": "You've built meta-awareness, evidence-based confidence, and regulated nervous system response. These are your elite-development foundation."
+        },
+        {
+          "name": "On-pitch drill",
+          "duration_min": 6,
+          "what_to_do": [
+            "Drill: 'Phase 1 Integration Match'—high-intensity competitive match celebrating twelve weeks",
+            "Throughout, observe and note when you see mental skills deployed under pressure",
+            "Pause and affirm: 'I saw you reframe that pressure as eustress. I saw you use your team cohesion protocol. I saw you reset after that error.'",
+            "After, ask: 'Which skill did you lean on most under pressure today?'"
+          ],
+          "what_to_say": "Under competition pressure, these protocols become automatic. That's where the edge comes from."
+        },
+        {
+          "name": "Close",
+          "duration_min": 2,
+          "what_to_do": [
+            "Debrief: 'You've built a foundation. Now Phase 2 is about deepening and applying it under increasing pressure.'",
+            "Ask: 'What's your anchor skill heading into Phase 2?'",
+            "Affirm and close"
+          ],
+          "what_to_say": "Phase 1 foundation embedded. Ready for elite-level development."
+        }
+      ],
+      "safeguarding_note": null,
+      "age_band_notes": "This cohort will engage with the forward-looking narrative and elite-development framing. Emphasise continuity and deepening, not restart.",
+      "equipment_needed": ["Video playback"]
+    }
+  ]
+}

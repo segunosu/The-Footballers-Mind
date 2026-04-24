@@ -1,0 +1,79 @@
+/* The Player's Mind — brand tokens. Imported once at the app root.
+   Mirrors TPM-brand-identity.html and TPM-brand-guide.pdf. */
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Inter:wght@400;500;700&display=swap');
+
+:root {
+  /* Academy navy */
+  --navy-900: #0a1f44;
+  --navy-800: #122957;
+  --navy-700: #1f3a74;
+  --navy-500: #3d5699;
+  --navy-300: #9aacd0;
+  --navy-100: #e6ebf5;
+
+  /* Match gold */
+  --gold-800: #6d5213;
+  --gold-600: #a6801e;
+  --gold-500: #d4a437;
+  --gold-300: #edca7b;
+  --gold-100: #faefd0;
+
+  /* Neutral + semantic */
+  --ink: #0a1a2e;
+  --ink-muted: #4c617f;
+  --paper: #f7f4ed;
+  --chalk: #ffffff;
+  --alert: #c82b2b;
+  --pitch: #1e7a4a;
+
+  /* Lines / elevation */
+  --line: rgba(10, 31, 68, 0.12);
+  --line-strong: rgba(10, 31, 68, 0.18);
+  --shadow-sm: 0 1px 0 rgba(10, 31, 68, 0.04);
+  --shadow-md: 0 4px 12px rgba(10, 31, 68, 0.08);
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 22px;
+
+  /* Spacing (8pt scale) */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+
+  /* Typography */
+  --font-display: 'Archivo', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+
+  /* Text sizes */
+  --text-xs: 11px;
+  --text-sm: 13px;
+  --text-base: 15px;
+  --text-md: 17px;
+  --text-lg: 20px;
+  --text-xl: 26px;
+  --text-xxl: 34px;
+  --text-hero: 44px;
+
+  /* Line heights */
+  --lh-tight: 1.08;
+  --lh-snug: 1.25;
+  --lh-body: 1.55;
+
+  /* Safeguarding age-band guardrails (computed at runtime by the app) */
+  --tap-target-min: 44px; /* 52px for ages 7–9 */
+}
+
+[data-age="age_7_9"] {
+  --tap-target-min: 52px;
+  --text-base: 16px;
+  --lh-body: 1.65;
+}

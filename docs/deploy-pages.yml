@@ -1,0 +1,67 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --no-frozen-lockfile
+
+      - name: Build all three apps
+        env:
+          GH_PAGES: '1'
+        run: |
+          pnpm --filter @tpm/player build
+          pnpm --filter @tpm/coach  build
+          pnpm --filter @tpm/parent build
+
+      - name: Assemble Pages artifact
+        run: |
+          mkdir -p _site/player _site/coach _site/parent
+          cp -r apps/player/dist/* _site/player/
+          cp -r apps/coach/dist/*  _site/coach/
+          cp -r apps/parent/dist/* _site/parent/
+          cp docs-landing.html _site/index.html
+          # GitHub Pages needs .nojekyll so files starting with _ are served
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
