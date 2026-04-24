@@ -1,18 +1,33 @@
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { useAuth } from '@tpm/auth';
+import { supabase } from '../lib/supabase';
+
+const DEMO = { email: 'player.morgan@theplayersmind.app', password: 'DemoTPM2026!' };
 
 export function SignIn() {
+  const nav = useNavigate();
   const { signInWithEmail } = useAuth();
   const [email, setEmail] = useState('');
-  const [sent, setSent] = useState(false);
+  const [password, setPassword] = useState('');
+  const [busy, setBusy] = useState(false);
   const [err, setErr] = useState<string | null>(null);
+  const [sentLink, setSentLink] = useState(false);
 
-  const handleSubmit = async (e: React.FormEvent) => {
+  const doSignIn = async (em: string, pw: string) => {
+    setBusy(true); setErr(null);
+    const { error } = await supabase.auth.signInWithPassword({ email: em, password: pw });
+    setBusy(false);
+    if (error) { setErr(error.message); return; }
+    nav('/', { replace: true });
+  };
+
+  const handlePassword = (e: React.FormEvent) => { e.preventDefault(); doSignIn(email.trim(), password); };
+  const handleMagic = async (e: React.FormEvent) => {
     e.preventDefault();
-    setErr(null);
+    if (!email.trim()) { setErr('Enter your email first'); return; }
     const { error } = await signInWithEmail(email.trim());
-    if (error) setErr(error);
-    else setSent(true);
+    if (error) setErr(error); else setSentLink(true);
   };
 
   return (
@@ -20,33 +35,28 @@ export function SignIn() {
       <div className="center-stack">
         <div className="tpm-mark" style={{ width: 68, height: 68, fontSize: 24, borderRadius: 16 }}>TPM</div>
         <h1>Welcome back.</h1>
-        <p style={{ color: 'var(--ink)', maxWidth: 300 }}>
-          We'll email you a link to sign in. No password needed.
-        </p>
-        {sent ? (
-          <div className="card" style={{ background: 'var(--gold-100)', borderColor: 'var(--gold-500)' }}>
-            <p style={{ margin: 0, fontWeight: 700, color: 'var(--gold-800)' }}>
-              Check your email. Tap the link to sign in.
-            </p>
-          </div>
+        <button className="btn btn-primary" style={{ width: '100%' }} onClick={() => doSignIn(DEMO.email, DEMO.password)} disabled={busy}>
+          {busy ? 'Signing in…' : 'Sign in as Morgan (demo)'}
+        </button>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8, width: '100%', margin: '6px 0' }}>
+          <div style={{ flex: 1, height: 1, background: 'var(--line)' }} />
+          <span style={{ fontSize: 11, color: 'var(--ink-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 700 }}>or</span>
+          <div style={{ flex: 1, height: 1, background: 'var(--line)' }} />
+        </div>
+        <form onSubmit={handlePassword} style={{ width: '100%', display: 'flex', flexDirection: 'column', gap: 10 }}>
+          <div className="field"><label>Email</label><input className="input" type="email" autoComplete="email" value={email} onChange={(e) => setEmail(e.target.value)} /></div>
+          <div className="field"><label>Password</label><input className="input" type="password" autoComplete="current-password" value={password} onChange={(e) => setPassword(e.target.value)} /></div>
+          {err && <p style={{ color: 'var(--alert)', fontSize: 12, margin: 0 }}>{err}</p>}
+          <button className="btn btn-secondary" type="submit" disabled={busy || !email || !password}>Sign in with password</button>
+        </form>
+        {sentLink ? (
+          <p style={{ fontSize: 12, color: 'var(--pitch)', fontWeight: 700 }}>Magic link sent — check your email.</p>
         ) : (
-          <form onSubmit={handleSubmit} style={{ width: '100%', display: 'flex', flexDirection: 'column', gap: 12 }}>
-            <div className="field">
-              <label htmlFor="email">Email</label>
-              <input
-                id="email"
-                className="input"
-                type="email"
-                autoComplete="email"
-                required
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-              />
-            </div>
-            {err && <p style={{ color: 'var(--alert)', fontSize: 12, margin: 0 }}>{err}</p>}
-            <button className="btn btn-primary" type="submit">Send link →</button>
-          </form>
+          <a href="#" onClick={handleMagic} style={{ fontSize: 12, color: 'var(--ink-muted)' }}>Or email me a magic link instead →</a>
         )}
+        <p style={{ fontSize: 11, color: 'var(--ink-muted)', maxWidth: 300 }}>
+          Demo password: <code style={{ background: 'var(--gold-100)', color: 'var(--navy-900)', padding: '2px 6px', borderRadius: 4 }}>DemoTPM2026!</code>
+        </p>
       </div>
     </div>
   );
