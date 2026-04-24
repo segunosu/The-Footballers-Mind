@@ -20,9 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # pnpm version comes from packageManager in root package.json — no `with: version`
       - uses: pnpm/action-setup@v4
-        with:
-          version: 9
 
       - uses: actions/setup-node@v4
         with:
@@ -47,10 +46,11 @@ jobs:
           cp -r apps/coach/dist/*  _site/coach/
           cp -r apps/parent/dist/* _site/parent/
           cp docs-landing.html _site/index.html
-          # GitHub Pages needs .nojekyll so files starting with _ are served
           touch _site/.nojekyll
 
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:
