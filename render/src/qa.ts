@@ -22,7 +22,7 @@ export function runQa(s: SessionScript): QaResult[] {
 
   // Voice script length (rough char count: ~150 wpm -> ~2.5 chars/sec)
   const voiceChars = s.voice.full_script.length;
-  const estVoiceSec = voiceChars / 16; // average UK English voice rate in chars/sec
+  const estVoiceSec = voiceChars / 8; // narration rate ~7.5 chars/sec (UK English, calm pace)
   const [vlo, vhi] = s.voice.production_spec.duration_sec_target;
   if (estVoiceSec < vlo - 10 || estVoiceSec > vhi + 10)
     out.push({ pass: false, code: 'voice.length_off', message: `Voice est ${estVoiceSec.toFixed(0)}s vs target ${vlo}–${vhi}s` });

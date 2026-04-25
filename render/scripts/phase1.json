@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "extracted_at": "2026-04-23T00:00:00Z",
   "source_pdf": "THEAA-content-scripts.pdf",
   "sessions": [
@@ -40,10 +40,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "Before your game, let's get your mind ready just like your body. Breathe in slow... two, three, four. Hold it... two, three. Breathe out slow... two, three, four. One more time. Good. Your body is ready. Your mind is ready. Now go play."
@@ -96,10 +96,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Before your game, let's get your mind as ready as your body. Take a slow breath in... two, three, four. Hold... two, three. Out slowly... two, three, four, five. One more time. Good. Your body is ready. Your mind is ready. This is your moment. Play your game."
@@ -152,10 +152,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "Before your game, let's get your mind as competition-ready as your body. Take a slow breath in... two, three, four. Hold... two, three. Out slowly... two, three, four, five. Again. Your body is ready. Your mind is ready. This is your moment. Go perform."
@@ -208,10 +208,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "Close your eyes for a moment. In your last game, what did you feel? Name it. Excited. Sad. Cross. Proud. Whatever it was, it was real. This week, be a feeling detective. When you feel something strong, stop and ask: what am I feeling? What is it telling me? The more you notice, the better you understand you. And when you understand you, you're in control. Open your eyes. You've started."
@@ -265,10 +265,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Close your eyes for a moment. After a tough game — or a really good one — what did you feel? Name it. Frustrated. Excited. Disappointed. Proud. Whatever it was, it was real. And it was telling you something. This week, notice your emotions in sport like a scientist. Not judging them. Just observing. Ask yourself: what am I feeling right now? And what is that feeling trying to tell me? The more you practise this, the better you understand yourself. And understanding yourself is the first step to controlling yourself. Take a breath. Open your eyes. You're already learning."
@@ -321,10 +321,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "Close your eyes. After a recent competitive moment — challenging or successful — what did you feel? Name it precisely. Not just 'nervous' but what type: anticipatory? Performance-based? Name it: frustrated, energised, uncertain. This week, observe your emotional states like a scientist measuring data. Ask yourself: what am I feeling right now? What is that signalling about my readiness? What can I do with it? Understanding your emotional baseline is the foundation of regulation. Open your eyes. You're building elite-level self-awareness."
@@ -378,10 +378,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "Before your next game... Think about three things. One thing you've done really well this season. One skill you actually have. And one thing you tell yourself that makes you feel strong. Hold those three. That's your confidence. It's real. It's always there. Breathe. Tell yourself: I've done good things. I have real skills. I believe in myself. Now go show them."
@@ -440,10 +440,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Before you get ready for your game today... Think about three things. One thing you've done well this season. One skill you know you have. And one phrase that makes you feel like yourself. Hold those three things in your mind. This is your confidence triangle. It's always there — even when you don't feel it. Take a slow breath in. And remind yourself: I have done good things. I have real skills. And I back myself. Now go show them what you've got."
@@ -495,10 +495,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "Before you compete... Recall three specific things. One measurable success from this season — timing, context, outcome. One technical skill you know you've developed. One performance cue that anchors you when pressure rises. Hold these three. This is your evidence-based confidence. It's grounded in data, not hope. Breathe. Activate: I have delivered before. I have demonstrable skill. I can regulate under pressure. Now execute your game."
@@ -558,10 +558,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "You made a mistake. That's okay. Every good player makes mistakes. Now — what can you learn from it? Maybe your feet were in the wrong place. Maybe you weren't watching the ball. That's your clue. That's what to work on next. Don't sit with it. Notice it. Fix it. Move on. Your coach notices when you learn from mistakes. Your teammates notice. Most importantly, you'll notice your game getting better. So next time you mess up, you're not upset — you're just learning."
@@ -623,10 +623,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Think about a recent mistake you made in sport. Not to dwell on it. Just to look at it clearly. What happened? What can you learn from it? Maybe your positioning was off. Maybe you rushed. That's the information. Now — let it go. You've extracted what you need. The rest is just noise. Take a breath. Remind yourself: mistakes make me better. Every athlete who has ever been great made more mistakes than you have. And they kept going. So will you."
@@ -685,10 +685,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "When you make a mistake in competition, the cognitive window is narrow. You've got seconds to process what happened, extract the learning, and move forward. Rumination is expensive — it costs you focus on the next play. Elite athletes practise error recognition like they practise technical skill. Notice the error. Name the variable. Learn the lesson. Reset. This is deliberate mental training. The cycle becomes automatic through repetition. Your mistake protocol is as trainable as your first touch. Use errors as data points for edge-sharpening, not as evidence against your capability. Then execute the next play."
@@ -750,10 +750,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "When you're playing and everything feels easy, that's focus. Your brain isn't wandering. You're locked in. That feeling — you can learn to get it back whenever you want. It's not magic. It's a skill. Your coach might shout. The crowd might be loud. But you can point your focus to one thing. The ball. The next pass. What you need to do right now. When your mind wanders, just notice it. Say a word, like your name, or Ball. Then lock back in. That's it. You're training your focus every time you do that."
@@ -814,10 +814,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Think about a moment when you were completely locked in during a game. No distractions. Just pure focus. That's a trainable state. Your brain drifts naturally — that's not a weakness, that's neurology. But the gap between drift and return is where the work happens. Elite athletes aren't born with fewer distractions. They've trained faster recovery. Watch the ball. Feel the field. Notice when your mind shifts to the crowd or your last mistake. Anchor back to your job. Ball, space, teammates. That cycle — focus, drift, recover, focus — is trainable. The faster your recovery loop, the more consistent your performance."
@@ -875,10 +875,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "Your attention system operates on a cycle, not a fixed beam. Narrow focus on the immediate task. Broad awareness of patterns and space. Drift when your brain catches something irrelevant. Recovery when you notice and re-anchor. Elite athletes compress this cycle. They return to task focus in microseconds, not seconds. This is trainable through deliberate repetition. In training, work your recovery explicitly. Notice when your focus has shifted. Name the distraction. Return to primary task. Make that loop tight. When you're in match conditions under pressure, that trained cycle becomes automatic. Your competitive consistency is built on attentional fitness, not distraction prevention."
@@ -941,10 +941,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "Before your game, try this. Breathe in slow... two, three, four. Hold... two, three. Breathe out slow... two, three, four. Hold... two, three. You feel different now. Calmer. Your body can feel the difference. When you're nervous before you play, this is what you do. Slow breath in, hold, slow breath out, hold. Four counts, four counts, four counts. One more time and you're ready to play. Your breath is the fastest way to tell your body you're okay. It always works."
@@ -1007,10 +1007,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Let's reset before your game. Follow my lead. Breathe in slowly... two, three, four. Hold... two, three, four. Out slowly... two, three, four, five. Hold... two, three. One more time. In... two, three, four. Hold... two, three, four. Out... two, three, four, five. Good. Your body is calm. Your mind is clear. You're in control. Now go play your game."
@@ -1069,10 +1069,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "Your nervous system has a gas pedal and a brake. Sympathetic activation gets you sharp and reactive. But without parasympathetic regulation, that sharpness becomes rigidity and risk aversion. Your breath is the control mechanism. Slow, paced breathing activates the vagal brake. Your brain interprets the signal as safety and stability. One box-breathing cycle — in for four, hold for four, out for four, hold for four — measurably shifts your state. Sixty seconds before you compete, after an error, when pressure rises: you've got a direct physiological tool. Use it intentionally and your nervous system becomes trainable. Your activation state becomes deliberate, not reactive."
@@ -1132,10 +1132,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "Let's warm up your mind. Breathe in... two, three, four. Out... two, three, four. Again. Good. Now say your word. The word that switches you on. Picture yourself. You're moving well. You're making good choices. You're playing your best game. Now set your one thing. What do you want to bring today? Hold it. That's your warm-up. Your mind and body are ready. Go play."
@@ -1196,10 +1196,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Let's run your mental warm-up. Breathe in... and out. Settle. Now — your cue word. Say it in your mind. The word that switches you on. Now picture yourself today. See yourself moving well. Making good decisions. Playing your game. Not perfect. Your game. Finally — set your intention. What do you want to bring to today? Hold it. That's your mental warm-up. Done. Your body is warm. Your mind is ready. Go."
@@ -1260,10 +1260,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "Run your pre-performance protocol now. Controlled breathing: in for four, hold for two, out for five. Again. Your activation cue — the phrase that puts you in performance mode. Visualise: the moment, the decision, the execution you want today. Not perfection. Your best decision-making under pressure. Finally, your specific intention. What does elite focus look like for you today? Hold it. This sequence is your competitive anchor. Execute it identically every time. Your nervous system learns. Your performance becomes consistent. That's how you build elite reliability."
@@ -1325,10 +1325,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "Take a moment. Think back. What's one thing you've actually used in a real game? You reset faster? You breathed when you were nervous? You felt more confident? That's real. That's you growing. Now I want you to pick one thing — just one — that you're going to use every single time. Not sometimes. Every time. That's how a skill becomes automatic. Like passing. Like your position sense. You practice it until it's yours. Pick it. Use it. That's how you keep building."
@@ -1391,10 +1391,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Take a quiet moment. Think back over the last eight weeks. What's one thing you've learned that you've actually used? Maybe it was the breathing before a tough moment. Maybe you reset faster after a mistake. Maybe your confidence felt different. Whatever it was — that's real growth. You've been doing the work. Take a breath. Now — what's the one mental skill you're going to make automatic? Choose it. Commit to it. You've built the foundation. Now you build the habit."
@@ -1452,10 +1452,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "Reflect on eight weeks. Not on what you learned. On where you chose differently. A moment you reset instead of ruminating. A match where your routine anchored you. A game where you reframed pressure as activation. That's your real evidence of growth. Now choose one skill — your anchor. Not because it's the most impressive. Because you can execute it under pressure. Commit to mastery of that one. Repetition creates automaticity. Automaticity frees your focus for the next layer. That's elite progression. You've built the foundation. Now you build the habit."
@@ -1517,10 +1517,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "Before your next big game, notice what your body is doing. Heart racing. Butterflies. Tight feeling. Don't fight it. Say this: 'I am excited.' Let yourself feel it that way. Your body is ready. This is good. Your nerves mean you care. Your energy means you're ready. That's not a problem. That's power. Take a breath. Feel it. Use it. Go show them what you've got."
@@ -1582,10 +1582,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Before your game, I want you to try something. Feel the nerves. The heart rate. The butterflies. And instead of fighting it — say this: 'I am excited.' Just those three words. Let yourself feel it as excitement. Your body is ready. This matters to you. That's a good thing. Take a breath. Feel the energy. Now use it. This is your moment. Your body is telling you so. Go play."
@@ -1645,10 +1645,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "Before your match, notice your cardiovascular state. Heart rate elevated. Breathing quickened. This is neural preparation. Don't suppress it. Reframe it. Say: 'I am excited. My body is optimised.' This is neurobiologically active — not metaphorical. Your appraisal shifts your vascular tone, your hormone profile, your cognitive bandwidth. You're not managing anxiety. You're channelling eustress into performance. Take a controlled breath. Anchor your intensity. Now execute at your best. Your system is primed."
@@ -1708,10 +1708,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "Your team needs you to bring energy today. Not fake energy. Real energy. Think of one mate who lifts you up. Now be that for someone else. Pick one person and tell them something real you saw them do well. Not 'good game' — something you actually noticed. When things get tough, and they will, choose to be the person who stays calm and helps everyone reset. You're not just a player. You're a teammate. That's what makes you strong."
@@ -1775,10 +1775,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Think about your team for a moment. Who lifts the energy when things are tough? What does it feel like when everyone is connected? Today, I want you to bring something to the group. Pick one person and give them a specific piece of encouragement. Not 'good game' — something real. Something you noticed. And when things go hard today — and they might — choose to be the energy you want to see. One player making the right choice changes the whole environment. That player can be you. Take a breath. Go be a great teammate."
@@ -1840,10 +1840,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "As an elite athlete, you're starting to understand that individual mental fitness compounds in a team context. The research is clear: cohesion directly impacts performance. This week, you're shifting focus. You're not just training your own mind. You're architecting your team's mental environment. That starts with observation. Pick a team-mate and give them specific feedback — not generic praise, but something you noticed about their technical or mental execution. Then model resilience. When pressure spikes, be the first to reset. That single action changes your team's nervous system response. You're not a player who happens to be in a team. You're a leader who shapes the environment every team-mate performs in. Act like it."
@@ -1905,10 +1905,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "If you've had a rough time in football lately, this is for you. It's okay that it hurts. But I want you to do one thing today. Find one thing you can control. It might be how hard you try in training. A skill you want to work on. Someone you want to talk to. One thing. Do it now. Don't wait to feel better. Just move. Then the good feeling comes. You're stronger than this setback. Go."
@@ -1971,10 +1971,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "If you've had a tough time recently in sport — a bad run, a big disappointment — this one is for you. It's okay that it hurt. Or still hurts. But there's one thing I want you to do today. Find one thing — just one — that you can control. It might be how hard you train this session. A skill you're going to work on. A conversation you've been putting off. One thing. Do it. Movement creates momentum. You're not waiting to feel better. You're choosing to move first. That's what bouncing back looks like. Take a breath. You've got this."
@@ -2036,10 +2036,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "Elite recovery isn't emotional avoidance. It's controlled acknowledgement followed by rapid action on what you can control. Research shows elite athletes move through setbacks faster because they act faster, not because they feel less. This week, identify one controllable variable you've been avoiding — a skill gap, a conversation, a training adjustment. Act on it now. Not when you feel better. Now. Neurologically, action precedes mood. You're not waiting for motivation. You're generating momentum. That momentum shifts your state. Be an actor. Move."
@@ -2102,10 +2102,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            55,
+            65
           ]
         },
         "full_script": "You've done something most players never do. You've trained your mind. Not just your feet. Your mind. Twelve weeks of work. That's real. Now take a breath and remind yourself: I've learned skills. Real skills. I know what to do. I've practised it. Now go and be the player you know you can be. You're ready."
@@ -2170,10 +2170,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            58,
+            62
           ]
         },
         "full_script": "Before you walk into today's showcase, take a moment. Think about who you were on week one. And who you are now. Not a different person. But a more equipped one. You have tools now. Real tools. Take a breath and remind yourself: I've done the work. I know what I can do. I'm ready. Today, just be yourself. The version of yourself that's been showing up for twelve weeks. That player is more than enough. Let's go."
@@ -2244,10 +2244,10 @@
       },
       "voice": {
         "production_spec": {
-          "voice": "warm, calm, mid-paced — ritual delivery, not narration",
+          "voice": "warm, calm, mid-paced — 60-second narration",
           "duration_sec_target": [
-            15,
-            45
+            60,
+            65
           ]
         },
         "full_script": "You've completed Phase 1. That matters. Most athletes your age don't have this foundation. You've built meta-awareness, evidence-based confidence, regulated nervous system response, and cohesion literacy. These aren't buzzwords. They're skills you've embedded through twelve weeks of practice. Under competition pressure, they'll automate. That's where the edge comes from. Now you're entering Phase 2 with something most don't. Positioning for elite-level development requires this foundation. You've built it. Now go use it."
@@ -2270,5 +2270,5 @@
       "needs_variant": false
     }
   ],
-  "last_updated_at": "2026-04-23T19:10:00Z"
+  "last_updated_at": "2026-04-25T08:30:00Z"
 }
