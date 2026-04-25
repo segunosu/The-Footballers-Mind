@@ -1,8 +1,3 @@
-// Shared auth provider + hooks for all three TPM apps.
-// Signs users in via email OTP (magic link) — no passwords in v1, simpler
-// for parents and coaches, and complies with AADC guidance for anything
-// adjacent to children's services.
-
 import {
   createContext,
   useCallback,
@@ -25,13 +20,7 @@ type AuthState = {
 
 const AuthContext = createContext<AuthState | null>(null);
 
-export function AuthProvider({
-  client,
-  children,
-}: {
-  client: TpmClient;
-  children: ReactNode;
-}) {
+export function AuthProvider({ client, children }: { client: TpmClient; children: ReactNode }) {
   const [session, setSession] = useState<Session | null>(null);
   const [loading, setLoading] = useState(true);
 
@@ -42,40 +31,27 @@ export function AuthProvider({
       setSession(data.session);
       setLoading(false);
     });
-    const { data: sub } = client.auth.onAuthStateChange((_event, s) => {
-      setSession(s);
-    });
-    return () => {
-      active = false;
-      sub.subscription.unsubscribe();
-    };
+    const { data: sub } = client.auth.onAuthStateChange((_e, s) => setSession(s));
+    return () => { active = false; sub.subscription.unsubscribe(); };
   }, [client]);
 
-  const signInWithEmail = useCallback<AuthState['signInWithEmail']>(
-    async (email) => {
-      const { error } = await client.auth.signInWithOtp({
-        email,
-        options: { emailRedirectTo: window.location.origin },
-      });
-      return error ? { error: error.message } : {};
-    },
-    [client],
-  );
+  const signInWithEmail = useCallback<AuthState['signInWithEmail']>(async (email) => {
+    const { error } = await client.auth.signInWithOtp({
+      email,
+      options: { emailRedirectTo: window.location.origin + window.location.pathname },
+    });
+    return error ? { error: error.message } : {};
+  }, [client]);
 
   const signOut = useCallback(async () => {
     await client.auth.signOut();
+    window.location.assign(window.location.pathname);
   }, [client]);
 
-  const value = useMemo<AuthState>(
-    () => ({
-      user: session?.user ?? null,
-      session,
-      loading,
-      signInWithEmail,
-      signOut,
-    }),
-    [session, loading, signInWithEmail, signOut],
-  );
+  const value = useMemo<AuthState>(() => ({
+    user: session?.user ?? null,
+    session, loading, signInWithEmail, signOut,
+  }), [session, loading, signInWithEmail, signOut]);
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
 }
@@ -86,15 +62,40 @@ export function useAuth(): AuthState {
   return ctx;
 }
 
-export function RequireAuth({
-  fallback,
-  children,
-}: {
-  fallback: ReactNode;
-  children: ReactNode;
-}) {
+export function RequireAuth({ fallback, children }: { fallback: ReactNode; children: ReactNode }) {
   const { user, loading } = useAuth();
   if (loading) return null;
   if (!user) return <>{fallback}</>;
   return <>{children}</>;
+}
+
+export function SignOutButton() {
+  const { signOut, user } = useAuth();
+  if (!user) return null;
+  return (
+    <button
+      type="button"
+      onClick={() => signOut()}
+      aria-label="Sign out"
+      title={user.email ?? 'Signed in'}
+      style={{
+        position: 'fixed',
+        top: 10,
+        right: 10,
+        zIndex: 1000,
+        background: 'rgba(255,255,255,0.92)',
+        border: '1px solid rgba(10,31,68,0.18)',
+        borderRadius: 999,
+        padding: '5px 11px',
+        fontSize: 11,
+        fontWeight: 700,
+        color: '#4c617f',
+        cursor: 'pointer',
+        letterSpacing: '0.02em',
+        fontFamily: 'inherit',
+      }}
+    >
+      Sign out
+    </button>
+  );
 }

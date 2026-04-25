@@ -1,5 +1,5 @@
 import { HashRouter, Routes, Route, Navigate, NavLink } from 'react-router-dom';
-import { AuthProvider, RequireAuth } from '@tpm/auth';
+import { AuthProvider, RequireAuth, SignOutButton } from '@tpm/auth';
 import { supabase } from './lib/supabase';
 import { SignIn } from './pages/SignIn';
 import { Digest } from './pages/Digest';
@@ -41,6 +41,7 @@ function Shell({ children }: { children: React.ReactNode }) {
 function Guarded({ children }: { children: React.ReactNode }) {
   return (
     <RequireAuth fallback={<Navigate to="/signin" replace />}>
+      <SignOutButton />
       <Shell>{children}</Shell>
     </RequireAuth>
   );

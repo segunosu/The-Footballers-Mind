@@ -1,5 +1,5 @@
 import { Routes, Route, Navigate, HashRouter, NavLink } from 'react-router-dom';
-import { AuthProvider, RequireAuth } from '@tpm/auth';
+import { AuthProvider, RequireAuth, SignOutButton } from '@tpm/auth';
 import { supabase } from './lib/supabase';
 import { Home } from './pages/Home';
 import { Join } from './pages/Join';
@@ -36,6 +36,7 @@ function Nav() {
 function Guarded({ children }: { children: React.ReactNode }) {
   return (
     <RequireAuth fallback={<Navigate to="/signin" replace />}>
+      <SignOutButton />
       {children}
       <Nav />
     </RequireAuth>
